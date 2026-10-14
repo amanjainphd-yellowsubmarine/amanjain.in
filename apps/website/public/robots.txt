@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /editor
+Disallow: /api/
+Disallow: /storage/
+Disallow: /app/
+
+Sitemap: https://amanjain.in/sitemap.xml

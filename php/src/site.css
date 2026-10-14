@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@source "../../apps/website";
+@source "./site.tsx";
+
+:root {
+  --background: #f6f4ef;
+  --foreground: #1c1915;
+  --accent: #1e4d3a;
+  --muted: #6b645c;
+  --line: #e4dfd6;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --font-sans: Poppins, sans-serif;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Poppins, sans-serif;
+}
+
+.font-poppins {
+  font-family: Poppins, sans-serif;
+}

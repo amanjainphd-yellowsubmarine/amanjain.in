@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "first-post",
+    "title": "Pehli post",
+    "excerpt": "Blog post ka short excerpt yahan aayega.",
+    "body": "Post ka full content yahan aayega. CMS ke Posts section se edit hoga.",
+    "status": "published",
+    "publishedAt": "2026-10-01"
+  },
+  {
+    "slug": "draft-post",
+    "title": "Draft post",
+    "excerpt": "Yeh post abhi draft hai, website par nahi dikhegi.",
+    "body": "Draft content.",
+    "status": "draft",
+    "publishedAt": "2026-10-08"
+  }
+]

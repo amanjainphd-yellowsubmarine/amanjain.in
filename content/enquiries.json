@@ -1,0 +1,23 @@
+[
+  {
+    "id": "19699041-f330-439a-8c1b-335d71dc2057",
+    "name": "Govind Sawarn",
+    "email": "govindsawarnchoudhary@gmail.com",
+    "message": "Read: Scaling Culture During Hypergrowth (Practice Caselets)",
+    "createdAt": "2026-10-14",
+    "status": "new",
+    "type": "resource",
+    "resourceTitle": "Scaling Culture During Hypergrowth",
+    "resourcePage": "Practice Caselets",
+    "resourceAction": "read",
+    "resourceHref": "https://sjartistry.in/wp-content/uploads/2026/09/CaseStudies01.pdf"
+  },
+  {
+    "id": "enq-1",
+    "name": "Sample Visitor",
+    "email": "visitor@example.com",
+    "message": "Contact form se aayi hui enquiry yahan dikhegi.",
+    "createdAt": "2026-10-10",
+    "status": "new"
+  }
+]

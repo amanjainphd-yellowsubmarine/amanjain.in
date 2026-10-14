@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "service-one",
+    "title": "Service One",
+    "summary": "Pehli service ka short description yahan aayega."
+  },
+  {
+    "slug": "service-two",
+    "title": "Service Two",
+    "summary": "Doosri service ka short description yahan aayega."
+  },
+  {
+    "slug": "service-three",
+    "title": "Service Three",
+    "summary": "Teesri service ka short description yahan aayega."
+  }
+]

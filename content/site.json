@@ -1,0 +1,85 @@
+{
+  "name": "Dr. Aman Jain",
+  "tagline": "Transforming Talent Strategy into Purposeful Action",
+  "description": "Transforming Talent Strategy into Purposeful Action",
+  "email": "hello@amanjain.in",
+  "phone": "+91 00000 00000",
+  "address": "Bangalore, India",
+  "footer": {
+    "bookingLabel": "Book a Slot",
+    "bookingHref": "https://cal.id/dr-aman-jain",
+    "quickTitle": "Quick Links",
+    "quickLinks": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Engagements",
+        "href": "/engagements"
+      },
+      {
+        "label": "Books",
+        "href": "/books"
+      },
+      {
+        "label": "Podcasts",
+        "href": "/on-air/podcasts"
+      },
+      {
+        "label": "Connect",
+        "href": "/connect"
+      }
+    ],
+    "resourcesTitle": "Resources",
+    "resourceLinks": [
+      {
+        "label": "Articles",
+        "href": "/resources/articles-research-papers"
+      },
+      {
+        "label": "Practice Caselets",
+        "href": "/resources/practice-caselets"
+      },
+      {
+        "label": "Research Papers",
+        "href": "/resources/articles-research-papers#aj-research"
+      },
+      {
+        "label": "Downloads",
+        "href": "/resources/assets"
+      },
+      {
+        "label": "Campus Connect",
+        "href": "#"
+      }
+    ],
+    "contactTitle": "Get in Touch",
+    "socials": [
+      {
+        "label": "Facebook",
+        "href": "https://facebook.com/amanjain.coach"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com/amanjain.coach"
+      },
+      {
+        "label": "Twitter/X",
+        "href": "https://twitter.com/jainstein86"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com/in/jainstein86"
+      },
+      {
+        "label": "WhatsApp Channel",
+        "href": "https://whatsapp.com/channel/0029Vam4O3K5a246B9uK261k"
+      }
+    ]
+  }
+}

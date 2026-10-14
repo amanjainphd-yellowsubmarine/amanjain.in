@@ -1,0 +1,97 @@
+{
+  "logo": {
+    "src": "/images/dr-aman-jain-logo.png",
+    "alt": "Aman Jain"
+  },
+  "menu": [
+    {
+      "id": "home",
+      "label": "Home",
+      "href": "/",
+      "children": []
+    },
+    {
+      "id": "about",
+      "label": "About",
+      "href": "/about",
+      "children": []
+    },
+    {
+      "id": "engagements",
+      "label": "Engagements",
+      "href": "/engagements",
+      "children": []
+    },
+    {
+      "id": "books",
+      "label": "Books",
+      "href": "/books/from-fomo-to-jomo",
+      "children": [
+        {
+          "id": "fomo-jomo",
+          "label": "From FOMO to JOMO",
+          "href": "/books/from-fomo-to-jomo"
+        },
+        {
+          "id": "recommended",
+          "label": "Recommended Books",
+          "href": "/books/recommended"
+        }
+      ]
+    },
+    {
+      "id": "on-air",
+      "label": "On Air",
+      "href": "/on-air/podcasts",
+      "children": [
+        {
+          "id": "podcasts",
+          "label": "Podcasts",
+          "href": "/on-air/podcasts"
+        },
+        {
+          "id": "media-appearances",
+          "label": "Media Appearances",
+          "href": "/on-air/media-appearances"
+        }
+      ]
+    },
+    {
+      "id": "resources",
+      "label": "Resources",
+      "href": "/resources/practice-caselets",
+      "children": [
+        {
+          "id": "caselets",
+          "label": "Practice Caselets",
+          "href": "/resources/practice-caselets"
+        },
+        {
+          "id": "papers",
+          "label": "Article & Research Papers",
+          "href": "/resources/articles-research-papers"
+        },
+        {
+          "id": "assets",
+          "label": "Assets",
+          "href": "/resources/assets"
+        },
+        {
+          "id": "news",
+          "label": "In The News",
+          "href": "/resources/in-the-news"
+        }
+      ]
+    },
+    {
+      "id": "connect",
+      "label": "Connect",
+      "href": "/connect",
+      "children": []
+    }
+  ],
+  "cta": {
+    "label": "Let's talk",
+    "href": "/connect"
+  }
+}

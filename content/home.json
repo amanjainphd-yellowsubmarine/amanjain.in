@@ -1,0 +1,261 @@
+{
+  "slides": [
+    {
+      "id": "practice",
+      "title": "The Practice\nBridge‑Builder",
+      "subtitle": "Connecting deep research to real-world impact",
+      "buttonLabel": "Let's Talk",
+      "href": "/connect",
+      "image": "/images/home/practice-bridge-builder.webp",
+      "alt": "The Practice Bridge-Builder",
+      "rings": [
+        {
+          "background": "#DFF7EF",
+          "opacity": 0.35
+        },
+        {
+          "background": "#CDEFF0",
+          "opacity": 0.45
+        },
+        {
+          "background": "#C9D8F5",
+          "opacity": 0.55
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "title": "The People\nArchitect",
+      "subtitle": "Building stronger organizations from the inside out",
+      "buttonLabel": "Let's Talk",
+      "href": "/connect",
+      "image": "/images/home/people-architect.webp",
+      "alt": "The People Architect",
+      "rings": [
+        {
+          "background": "linear-gradient(135deg, #DFECB2 0%, #A2D7C5 100%)",
+          "opacity": 0.3
+        },
+        {
+          "background": "linear-gradient(135deg, #DFECB2 0%, #A2D7C5 100%)",
+          "opacity": 0.6
+        },
+        {
+          "background": "linear-gradient(135deg, #DFECB2 0%, #A2D7C5 100%)",
+          "opacity": 0.95
+        }
+      ]
+    },
+    {
+      "id": "leadership",
+      "title": "The Leadership\nFacilitator",
+      "subtitle": "Unlocking collective brilliance in teams and leaders",
+      "buttonLabel": "Let's Talk",
+      "href": "/connect",
+      "image": "/images/home/leadership-facilitator.webp",
+      "alt": "The Leadership Facilitator",
+      "rings": [
+        {
+          "background": "linear-gradient(135deg, #FCE8D5 0%, #D5EFE1 100%)",
+          "opacity": 0.3
+        },
+        {
+          "background": "linear-gradient(135deg, #FCE8D5 0%, #D5EFE1 100%)",
+          "opacity": 0.6
+        },
+        {
+          "background": "linear-gradient(135deg, #FCE8D5 0%, #D5EFE1 100%)",
+          "opacity": 0.95
+        }
+      ]
+    },
+    {
+      "id": "insight",
+      "title": "The Insight\nStoryteller",
+      "subtitle": "Weaving data and human experience into clear strategy",
+      "buttonLabel": "Let's Talk",
+      "href": "/connect",
+      "image": "/images/home/insight-storyteller.webp",
+      "alt": "The Insight Storyteller",
+      "rings": [
+        {
+          "background": "linear-gradient(135deg, #FFF5C3 0%, #FFAEC9 100%)",
+          "opacity": 0.3
+        },
+        {
+          "background": "linear-gradient(135deg, #FFF5C3 0%, #FFAEC9 100%)",
+          "opacity": 0.6
+        },
+        {
+          "background": "linear-gradient(135deg, #FFF5C3 0%, #FFAEC9 100%)",
+          "opacity": 0.95
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "title": "The Learning\nAlchemist",
+      "subtitle": "Turning potential into performance and skill",
+      "buttonLabel": "Let's Talk",
+      "href": "/connect",
+      "image": "/images/home/learning-alchemist.webp",
+      "alt": "The Learning Alchemist",
+      "rings": [
+        {
+          "background": "linear-gradient(135deg, #E3F7EB 0%, #F3E2CF 100%)",
+          "opacity": 0.3
+        },
+        {
+          "background": "linear-gradient(135deg, #E3F7EB 0%, #F3E2CF 100%)",
+          "opacity": 0.6
+        },
+        {
+          "background": "linear-gradient(135deg, #E3F7EB 0%, #F3E2CF 100%)",
+          "opacity": 0.95
+        }
+      ]
+    }
+  ],
+  "about": {
+    "image": "/images/home/about-aman.webp",
+    "alt": "Dr. Aman Jain",
+    "name": "Dr. Aman Jain",
+    "tagline": "Transforming HR from a Function to a Strategic Growth Engine",
+    "role": "Learning Navigator & Capacity Cultivator",
+    "paragraphs": [
+      "Dr. Aman Jain is a distinguished HR Leader and an Talent & Organizational Development subject matter expert with over 16+ years of experience. He excels in translating business needs into effective HR strategies, utilizing assessment centres, learning initiatives, and talent management interventions.",
+      "Aman currently serves as CHRO at e2E Rail, a Railway Infrastructure Company based in Bengaluru. He was previously the Head - Corporate HR at major Hospitality Chain – Sterling Holiday Resorts Limited, overseeing various Centre of Excellence such as HR Operations (Payroll, HRMS, Compliance & Statutory), Talent & Org Development, HR Business Partnering, Employer Branding, Talent Engagement, and Digitization, Analytics, & Business Excellence."
+    ],
+    "stats": [
+      {
+        "target": 500,
+        "suffix": "+",
+        "label": "Projects Delivered"
+      },
+      {
+        "target": 2,
+        "suffix": "M+",
+        "label": "Content Views"
+      },
+      {
+        "target": 16,
+        "suffix": "yrs",
+        "label": "Experience"
+      },
+      {
+        "target": 300,
+        "suffix": "+",
+        "label": "Happy Clients"
+      }
+    ]
+  },
+  "expertise": {
+    "title": "Core Expertise Areas",
+    "subtitle": "Specialized knowledge driving transformation and growth",
+    "cards": [
+      {
+        "title": "Talent Strategy",
+        "description": "Developing comprehensive talent acquisition, retention, and development strategies aligned with organizational goals and business outcomes"
+      },
+      {
+        "title": "Leadership",
+        "description": "Building leadership capability through transformational programs, coaching, and development initiatives that drive organizational excellence"
+      },
+      {
+        "title": "Coaching",
+        "description": "Empowering individuals and teams through personalized coaching methodologies to unlock potential and achieve breakthrough performance"
+      },
+      {
+        "title": "Learning Experience",
+        "description": "Designing innovative learning experiences that engage learners, drive behavioral change, and create measurable business impact"
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Achievements & Milestones",
+    "subtitle": "Celebrating Excellence in HR Leadership",
+    "cards": [
+      {
+        "year": "",
+        "title": "HR Excellence Award — The People Architext Award 2025 (CHROs)",
+        "description": "Global Council of Global Business Services"
+      },
+      {
+        "year": "",
+        "title": "Iconic HR Leadership Award",
+        "description": "Golden Aim Awards for Excellence in Leadership & HR"
+      },
+      {
+        "year": "",
+        "title": "Best Research Paper of the Track Award",
+        "description": "HR Track @ INDAM 2020, IIM Trichy"
+      },
+      {
+        "year": "",
+        "title": "Best Research Paper Award (Management Track)",
+        "description": "Chitkara University Doctoral Consortium, Chandigarh"
+      },
+      {
+        "year": "2017",
+        "title": "NGO Leadership Award",
+        "description": "Bengaluru NGO Leadership Awards"
+      },
+      {
+        "year": "2019",
+        "title": "Franklin Award by London Journals Press",
+        "description": "A recognition title presented by London Journals Press"
+      },
+      {
+        "year": "2021",
+        "title": "Excellence in Results Award (Culture)",
+        "description": "AB InBev GCC Services Pvt Ltd — internal award for exceptional cultural impact"
+      }
+    ]
+  },
+  "stories": {
+    "title": "People Stories",
+    "subtitle": "What Leaders Say About Working Together",
+    "cards": [
+      {
+        "quote": "\"Working under Dr. Aman Jain at Sterling Holidays was truly enriching. As Head of L&D, his vision, strategic thinking, and hands-on leadership transformed the learning culture. He built impactful frameworks, leadership pathways, and capability programs while mentoring others with empathy and clarity. His guidance helped me grow personally and professionally. Dr. Aman is a rare leader who genuinely invests in people, and I'm grateful for the opportunity to learn from him. Wishing him continued success.\"",
+        "name": "Sumosh Nair",
+        "role": "Heading L&D Globally across diverse industries — Hospitality, Logistics, Automotive, Telecom, & ITES for leading brands including Sterling Holidays, Nissan, BMW, Renault, Idea, Tata Docomo & Amazon.",
+        "photo": "/images/uploads/profile-c232f30f.jpg",
+        "logo": "/images/home/logo-sterling.svg",
+        "logoAlt": "Sterling Holidays",
+        "profileUrl": "https://www.linkedin.com/in/govindsawarn/"
+      },
+      {
+        "quote": "\"Dr. Aman is an enthusiastic business partner who is able to think out of the box while designing and delivering solutions. I enjoyed collaborating with him on L&D and talent initiatives. He is a keen learner and keeps himself updated of the latest trends in HR. He stretches himself to develop scalable and sustainable solutions. He has a strong sense of ownership towards the initiatives he runs. With a curious mind and an open attitude towards new experiences, I am confident that he is a great leader in the making.\"",
+        "name": "Surabhi Loshali",
+        "role": "Group CHRO, Strides",
+        "photo": "/images/home/story-avatar.svg",
+        "logo": "/images/home/logo-strides.svg",
+        "logoAlt": "Strides"
+      }
+    ]
+  },
+  "subscribe": {
+    "title": "Subscribe",
+    "subtitle": "New articles and updates are saved on this website. You can also follow the same writing on LinkedIn.",
+    "note": "You are on the list. It is stored with the other messages on this website.",
+    "buttonLabel": "Subscribe",
+    "linkedinLabel": "LinkedIn newsletter",
+    "linkedinHref": "https://www.linkedin.com/newsletters/the-human-read-7504553329180577794/",
+    "namePlaceholder": "First Name Last Name",
+    "emailPlaceholder": "Email"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "headline": "Ready to transform your organization? Get in touch today!",
+    "intro": "Fill out the form to inquire about speaking, consulting, or partnership opportunities,",
+    "orLabel": "Or",
+    "prompt": "Just click below to connect",
+    "email": "hello@amanjain.in",
+    "namePlaceholder": "First Name Last Name",
+    "emailPlaceholder": "Your E-mail",
+    "subjectPlaceholder": "Subject",
+    "messagePlaceholder": "Your message/query",
+    "buttonLabel": "Send Message"
+  }
+}

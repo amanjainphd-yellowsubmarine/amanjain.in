@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "project-one",
+    "title": "Project One",
+    "summary": "Pehle project ka short note.",
+    "year": "2026"
+  },
+  {
+    "slug": "project-two",
+    "title": "Project Two",
+    "summary": "Doosre project ka short note.",
+    "year": "2025"
+  }
+]

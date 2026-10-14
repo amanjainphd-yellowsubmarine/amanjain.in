@@ -1,0 +1,2438 @@
+[
+    {
+        "slug": "about",
+        "title": "About",
+        "eyebrow": "About",
+        "summary": "About page",
+        "body": "About content yahan aayega. CMS ke Pages section se edit hoga.",
+        "status": "published",
+        "hero": {
+            "title": "Dr. Aman Jain",
+            "description": "A seasoned HR leader with 16+ years of experience transforming talent strategies into organizational excellence",
+            "cardTitle": "Professional Biography",
+            "image": "/images/about/dr-aman-jain.webp",
+            "alt": "Dr. Aman Jain",
+            "blocks": [
+                {
+                    "title": "Learning Navigator & Capacity Cultivator",
+                    "paragraphs": [
+                        "Dr Aman Jain is a distinguished HR Leader and Talent & Organizational Development subject matter expert with over **16+ years** of experience.",
+                        "He excels in translating business needs into effective HR strategies, utilizing assessment centres, learning initiatives, and talent management interventions.",
+                        "Aman currently serves as **CHRO at e2E Rail**, a Railway Infrastructure Company based in Bengaluru. He was previously the Head - Corporate HR at Sterling Holiday Resorts Limited."
+                    ]
+                },
+                {
+                    "title": "Management Researcher",
+                    "paragraphs": [
+                        "With a **Doctoral degree from IIM Kashipur**, his research explores learning analytics, gamification, and intergenerational learning."
+                    ]
+                },
+                {
+                    "title": "Social Entrepreneur",
+                    "paragraphs": [
+                        "Beyond his professional achievements, he leads **Zav Foundation** (www.zavfoundation.org), empowering women and youth through skill development."
+                    ]
+                }
+            ],
+            "educationTitle": "Education",
+            "education": [
+                {
+                    "degree": "Fellow in Management -\nDoctoral Program\n(OB & HRM)",
+                    "institution": "Indian Institute of\nManagement, Kashipur",
+                    "year": "2017-22",
+                    "logo": "/images/about/edu-iim-kashipur.png",
+                    "alt": "IIM Kashipur Logo"
+                },
+                {
+                    "degree": "Post Graduate\nDiploma in\nBusiness\nAdministration\n(HR)",
+                    "institution": "Symbiosis CDL, Pune",
+                    "year": "2010-12",
+                    "logo": "/images/about/edu-symbiosis.png",
+                    "alt": "Symbiosis Logo"
+                },
+                {
+                    "degree": "Post Graduate\nDiploma in\nHigher Education",
+                    "institution": "Karnataka SOU, Mysore",
+                    "year": "2009-10",
+                    "logo": "/images/about/edu-ksou.png",
+                    "alt": "Karnataka SOU Logo"
+                },
+                {
+                    "degree": "Bachelor in\nEngineering (ECE)",
+                    "institution": "Visveswaraiah\nTechnological University,\nBelgaum",
+                    "year": "2005-09",
+                    "logo": "/images/about/edu-vtu.png",
+                    "alt": "Visveswaraiah Technological University Logo"
+                }
+            ],
+            "experienceTitle": "Professional Experience",
+            "experienceSubtitle": "16+ Years of Driving HR Transformation Across Global Brands",
+            "experience": [
+                {
+                    "dates": "Mar 24 - Till Date",
+                    "role": "Chief Human Resources Officer (CHRO)",
+                    "company": "E2E Rail Public Limited Company",
+                    "logo": "/images/about/exp-e2e.png",
+                    "alt": "E2E Rail"
+                },
+                {
+                    "dates": "Nov 22 - May 24",
+                    "role": "Vice President - Corporate HR",
+                    "company": "Sterling Holiday Resorts",
+                    "logo": "/images/about/exp-sterling.png",
+                    "alt": "Sterling Holiday Resorts"
+                },
+                {
+                    "dates": "Aug 21 - Oct 22",
+                    "role": "Lead - Talent Development CoE",
+                    "company": "AB InBev GCC India Pvt Ltd",
+                    "logo": "/images/about/exp-abinbev.png",
+                    "alt": "AB InBev"
+                },
+                {
+                    "dates": "Jan 21 - Jul 21",
+                    "role": "Process Lead - Learning & Org Dev",
+                    "company": "Arcolab - A Strides Enterprise",
+                    "logo": "/images/about/exp-arcolab.png",
+                    "alt": "Arcolab"
+                },
+                {
+                    "dates": "Sep 15 - Dec 20",
+                    "role": "Head - Learning & Development",
+                    "company": "Kontoor Brands India Pvt Ltd",
+                    "logo": "/images/about/exp-kontoor.png",
+                    "alt": "Kontoor Brands"
+                },
+                {
+                    "dates": "Jun 13 - Sep 15",
+                    "role": "Business Head @ Hands On!",
+                    "company": "Ozone Experiential Learning Technologies Pvt Ltd",
+                    "logo": "/images/about/exp-ozone.jpg",
+                    "alt": "Ozone Experiential Learning"
+                },
+                {
+                    "dates": "Jun 11 - Jun 13",
+                    "role": "Lead Facilitator (Leadership Training)",
+                    "company": "Indus School of Leadership, Yellagiri",
+                    "logo": "/images/about/exp-indus.jpg",
+                    "alt": "Indus School of Leadership"
+                },
+                {
+                    "dates": "Jun 10 - Jun 11",
+                    "role": "Regional Manager - L&D",
+                    "company": "Manford",
+                    "logo": "/images/about/exp-manford.jpg",
+                    "alt": "Manford"
+                }
+            ],
+            "areasTitle": "Areas of Expertise",
+            "areasSubtitle": "Where knowledge meets real-world application.\nHelping teams grow with purpose, clarity, and confidence",
+            "areas": [
+                {
+                    "title": "Speaking",
+                    "description": "Inspiring and educating audiences on behavioral sciences, leadership, and innovation with compelling narratives and actionable takeaways from industry and research expertise"
+                },
+                {
+                    "title": "Facilitation",
+                    "description": "Creating dynamic group interactions using proven scientific methodologies to foster collaboration and drive application across diverse teams, levels, and geographies"
+                },
+                {
+                    "title": "Coaching",
+                    "description": "Personalized one-on-one and group coaching to unlock potential, develop skills, enhance performance, and achieve professional and personal goals"
+                },
+                {
+                    "title": "eLearning",
+                    "description": "Flexible online courses covering essential leadership and experiential learning, designed to fit your schedule with interactive and engaging content"
+                },
+                {
+                    "title": "Research",
+                    "description": "Advancing knowledge in OB & HRM, People Analytics, and Social Entrepreneurship through rigorous qualitative, quantitative, and mixed-method studies"
+                },
+                {
+                    "title": "Volunteering",
+                    "description": "Making positive community impact through Zav Foundation's work in skill development, women empowerment, youth leadership, and teacher development initiatives"
+                }
+            ],
+            "ctaTitle": "Ready to Transform Your Organization?",
+            "ctaSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "ctaLabel": "Get in Touch",
+            "ctaHref": "/connect"
+        }
+    },
+    {
+        "slug": "engagements",
+        "title": "Engagements",
+        "eyebrow": "",
+        "summary": "Engagements page",
+        "body": "",
+        "status": "published",
+        "engagement": {
+            "title": "Engagements\n& Projects",
+            "description": "Transforming organizations through speaking, facilitation, coaching, research, and social impact",
+            "image": "/images/engagements/engagements-projects.webp",
+            "alt": "Dr. Aman Jain Engagements",
+            "gallery": [
+                {
+                    "image": "/images/engagements/gallery-1.jpg",
+                    "alt": "Gallery Image 1"
+                },
+                {
+                    "image": "/images/engagements/gallery-2.jpg",
+                    "alt": "Gallery Image 2"
+                },
+                {
+                    "image": "/images/engagements/gallery-3.jpg",
+                    "alt": "Gallery Image 3"
+                },
+                {
+                    "image": "/images/engagements/gallery-4.jpg",
+                    "alt": "Gallery Image 4"
+                },
+                {
+                    "image": "/images/engagements/gallery-5.jpg",
+                    "alt": "Gallery Image 5"
+                },
+                {
+                    "image": "/images/engagements/gallery-6.jpg",
+                    "alt": "Gallery Image 6"
+                },
+                {
+                    "image": "/images/engagements/gallery-7.jpg",
+                    "alt": "Gallery Image 7"
+                },
+                {
+                    "image": "/images/engagements/gallery-8.jpg",
+                    "alt": "Gallery Image 8"
+                },
+                {
+                    "image": "/images/engagements/gallery-9.jpg",
+                    "alt": "Gallery Image 9"
+                }
+            ],
+            "eventsTitle": "Events",
+            "eventsSubtitle": "Speaking engagements, panel discussions, and keynote sessions\nacross industry and academia",
+            "events": [
+                {
+                    "timing": "future",
+                    "format": "keynote",
+                    "title": "The CHRO Vault Summit & Awards 2026",
+                    "place": "The CHRO Vault",
+                    "date": "24 Apr '26",
+                    "topic": "CHRO leadership summit and awards"
+                },
+                {
+                    "timing": "past",
+                    "format": "masterclass",
+                    "title": "Guest Lecture - Learning & Development",
+                    "place": "TA Pai Management Institute, Manipal",
+                    "date": "15 Feb '26",
+                    "topic": "Trends & Best Practices in L&D"
+                },
+                {
+                    "timing": "past",
+                    "format": "keynote",
+                    "title": "Asia L&D and Employer Branding Conference & Awards 2026",
+                    "place": "International Business Conferences",
+                    "date": "13 Feb '26",
+                    "topic": "L&D on Autopilot: Leveraging Ready-to-Go Tools for Rapid Deployment"
+                },
+                {
+                    "timing": "past",
+                    "format": "masterclass",
+                    "title": "Guest Lecture",
+                    "place": "International Management Institute, Bhubaneshwar",
+                    "date": "1 Mar '26",
+                    "topic": "Guest Lecture"
+                },
+                {
+                    "timing": "past",
+                    "format": "masterclass",
+                    "title": "Guest Lecture",
+                    "place": "IIM Kashipur",
+                    "date": "March Week 3 '26",
+                    "topic": "Guest Lecture"
+                },
+                {
+                    "timing": "past",
+                    "format": "panel",
+                    "title": "Bengaluru HR Summit 2025",
+                    "place": "Institute of HRD",
+                    "date": "13 Dec '25",
+                    "topic": "HR 3.0 - Revolutionizing Future of Work"
+                },
+                {
+                    "timing": "past",
+                    "format": "panel",
+                    "title": "HR Conclave 2025",
+                    "place": "School of Business, IIT Guwahati",
+                    "date": "13 Oct '25",
+                    "topic": "Evolving Role of the CHRO in today's Business Landscape"
+                },
+                {
+                    "timing": "past",
+                    "format": "masterclass",
+                    "title": "Guest Lecture - Resource Management Fundamentals",
+                    "place": "School of Business, IIT Guwahati",
+                    "date": "14 Oct '25",
+                    "topic": "Understanding AOP & Human Capital Planning"
+                },
+                {
+                    "timing": "past",
+                    "format": "masterclass",
+                    "title": "Guest Lecture - Strategic Compensation & Rewards",
+                    "place": "Ramaiah Institute of Management Studies, Bengaluru",
+                    "date": "30 Sep '25",
+                    "topic": "Strategic Compensation & Rewards"
+                },
+                {
+                    "timing": "past",
+                    "format": "keynote",
+                    "title": "Empower 2025, IEEE IES Student Leadership Summit",
+                    "place": "Nitte Meenakshi Institute of Technology, Bengaluru",
+                    "date": "29 Oct '25",
+                    "topic": "Leadership Essentials"
+                },
+                {
+                    "timing": "past",
+                    "format": "masterclass",
+                    "title": "Guest Lecture - Becoming 21st Century Professional",
+                    "place": "The Naturalist School",
+                    "date": "12 Oct '25",
+                    "topic": "Tourism Industry - Skills Ontology"
+                },
+                {
+                    "timing": "past",
+                    "format": "masterclass",
+                    "title": "Guest Lecture - Knowing Self & Others",
+                    "place": "IIM Rohtak",
+                    "date": "6 Sep '25",
+                    "topic": "Knowing Self & Others"
+                },
+                {
+                    "timing": "past",
+                    "format": "keynote",
+                    "title": "Employability in Tourism Sector",
+                    "place": "IIM Bodhgaya",
+                    "date": "30 Aug '25",
+                    "topic": "Multigenerational Skills Architecture"
+                },
+                {
+                    "timing": "past",
+                    "format": "",
+                    "title": "Industry Academia Summit 2025",
+                    "place": "MIT, Pune",
+                    "date": "10 Oct '25",
+                    "topic": "Skill-Based Hiring vs Degree-Based Hiring: What Matters More? / Knowing Self & Others"
+                }
+            ],
+            "rolesTitle": "Professional Engagements",
+            "rolesSubtitle": "Professional roles in academic and corporate formal settings",
+            "roles": [
+                {
+                    "title": "Master of Ceremonies\n(Formal Events)",
+                    "description": "Hosting and anchoring corporate events, award ceremonies, and leadership summits with professionalism and engaging stage presence"
+                },
+                {
+                    "title": "Professor of Practice\n(Management)",
+                    "description": "Guest faculty and visiting professor roles at premier business schools, bridging industry experience with academic excellence"
+                }
+            ],
+            "projectsTitle": "Projects Delivered",
+            "projectsSubtitle": "A comprehensive list of organizations we've partnered with and the impactful interventions delivered. These clients may have been serviced through various consulting firms that I was a part of during my dedicated tenure with them.",
+            "projectCategories": [
+                {
+                    "title": "Finance, Banking & Insurance",
+                    "items": [
+                        {
+                            "company": "Edelweiss",
+                            "type": "Sr Leadership Breakthrough W/s"
+                        },
+                        {
+                            "company": "HSBC",
+                            "type": "Large Group Intervention"
+                        },
+                        {
+                            "company": "Edel Tokio Insurance",
+                            "type": "Sr Leadership Breakthrough W/s"
+                        },
+                        {
+                            "company": "PWC",
+                            "type": "Hi Po Dev Program"
+                        },
+                        {
+                            "company": "Bharati Axa",
+                            "type": "Outbound Learning"
+                        }
+                    ]
+                },
+                {
+                    "title": "Automobile",
+                    "items": [
+                        {
+                            "company": "Toyota",
+                            "type": "Sr Leadership Breakthrough W/s"
+                        },
+                        {
+                            "company": "Tivolt EV - Murugappa",
+                            "type": "Outbound Learning W/s"
+                        }
+                    ]
+                },
+                {
+                    "title": "Media",
+                    "items": [
+                        {
+                            "company": "UTV Bloomberg",
+                            "type": "Sr Leadership Breakthrough W/s"
+                        },
+                        {
+                            "company": "Hindustan Times",
+                            "type": "Leadership Dev OBL"
+                        }
+                    ]
+                },
+                {
+                    "title": "Health",
+                    "items": [
+                        {
+                            "company": "IMS Health",
+                            "type": "Large Group Intervention"
+                        },
+                        {
+                            "company": "Columbia Asia Hospitals",
+                            "type": "Hi Performing Teams"
+                        }
+                    ]
+                },
+                {
+                    "title": "Public Sector Undertaking/ Government Bodies",
+                    "items": [
+                        {
+                            "company": "Bharat Electronics Limited",
+                            "type": "ADC + Sr Managers Dev Program Series"
+                        },
+                        {
+                            "company": "DRDO - LRDE",
+                            "type": "Outbound Learning"
+                        },
+                        {
+                            "company": "Bruhat Bengaluru Mahanagara Palike",
+                            "type": "Personality Dev & Career Guidance Workshop Series"
+                        },
+                        {
+                            "company": "E2E Rail (Indian Railways & Metro Rail Projects PAN India)",
+                            "type": "(Private Entity)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Non Profit",
+                    "items": [
+                        {
+                            "company": "CHORD",
+                            "type": "Faculty Dev Pgm for Bridge Schools"
+                        },
+                        {
+                            "company": "Rotary International",
+                            "type": "Youth leadership Pgm"
+                        },
+                        {
+                            "company": "Akshaya Patra, Iskcon Hubli & Hyd",
+                            "type": "Youth Leadership & Team Effectiveness"
+                        },
+                        {
+                            "company": "L&T CSR Prayas",
+                            "type": "Women Entrepreneurship Dev Pgm + Faculty Dev Pgm"
+                        },
+                        {
+                            "company": "Radio Active 90.4 Community Radio",
+                            "type": "as a Radio Jockey"
+                        }
+                    ]
+                },
+                {
+                    "title": "Ed Tech",
+                    "items": [
+                        {
+                            "company": "UpGrad",
+                            "type": "MBA Program - Career Development"
+                        },
+                        {
+                            "company": "UpTop",
+                            "type": "Strategic HR Analytics Program - People Analytics Module"
+                        },
+                        {
+                            "company": "Emeritus",
+                            "type": "Global MBA Program by University of Western Australia & IIM Kozhikode - People Management Module"
+                        }
+                    ]
+                },
+                {
+                    "title": "Consulting/ Staffing/ Market Research",
+                    "items": [
+                        {
+                            "company": "Ikya Human Capital",
+                            "type": "Business Immersion Program + OBL + Belbin Intervention W/s + Coaching"
+                        },
+                        {
+                            "company": "GfK Mode",
+                            "type": "Market Benchmarking Study"
+                        }
+                    ]
+                },
+                {
+                    "title": "IT/ ITES",
+                    "items": [
+                        {
+                            "company": "Oracle",
+                            "type": "Large Group Intervention"
+                        },
+                        {
+                            "company": "EMC2",
+                            "type": "Visioning Intervention (Mural Maya)"
+                        },
+                        {
+                            "company": "Tata Consultancy Services",
+                            "type": "Outbound Learning"
+                        },
+                        {
+                            "company": "Hewlett Packard",
+                            "type": "Manager Effectiveness OBL"
+                        },
+                        {
+                            "company": "Mphasis",
+                            "type": "Outbound Learning Series"
+                        },
+                        {
+                            "company": "Wipro",
+                            "type": "Manager Dev Program"
+                        },
+                        {
+                            "company": "Mindtree",
+                            "type": "Outbound Learning Series"
+                        },
+                        {
+                            "company": "Intuit",
+                            "type": "Belbin Team Roles Intervention"
+                        },
+                        {
+                            "company": "SAP Labs India",
+                            "type": "Outbound Learning Series"
+                        },
+                        {
+                            "company": "Bally Technologies",
+                            "type": "Outbound Learning"
+                        },
+                        {
+                            "company": "Honeywell",
+                            "type": "Outbound Learning Series"
+                        },
+                        {
+                            "company": "Thoughtworks",
+                            "type": "Hi Po Dev Program + Belbin Team Roles"
+                        },
+                        {
+                            "company": "Accenture",
+                            "type": "Outbound Learning"
+                        },
+                        {
+                            "company": "Incture",
+                            "type": "Belbin Team Roles Intervention"
+                        },
+                        {
+                            "company": "Concur",
+                            "type": "HR Visioning Experience (Mural Maya)"
+                        },
+                        {
+                            "company": "GE",
+                            "type": "Corporate Immersion Program"
+                        },
+                        {
+                            "company": "InMobi",
+                            "type": "HR Practitioners Workshop"
+                        }
+                    ]
+                },
+                {
+                    "title": "Retail/ FMCG",
+                    "items": [
+                        {
+                            "company": "Shoppers Stop",
+                            "type": "Amazing Team Race + Sand Castles"
+                        },
+                        {
+                            "company": "Homeshop 18",
+                            "type": "Large Group Intervention"
+                        },
+                        {
+                            "company": "Arvind Brands",
+                            "type": "Leadership Dev OBL"
+                        },
+                        {
+                            "company": "Landmark Group",
+                            "type": "True Colors Intervention & OBL"
+                        },
+                        {
+                            "company": "Nilgiris",
+                            "type": "Leadership Dev OBL"
+                        }
+                    ]
+                },
+                {
+                    "title": "Manufacturing/ Mining",
+                    "items": [
+                        {
+                            "company": "Prime Progression",
+                            "type": "ADC + Leadership Dev + Coaching"
+                        },
+                        {
+                            "company": "Peacock Plus",
+                            "type": "MBTI Intervention + OBL + Coaching"
+                        },
+                        {
+                            "company": "Sterlite Industries",
+                            "type": "Leadership Dev OBL"
+                        },
+                        {
+                            "company": "Sesa Goa",
+                            "type": "Campus to Corporate"
+                        },
+                        {
+                            "company": "Amara Raja Group",
+                            "type": "Talk - Stories of Change & Impact"
+                        }
+                    ]
+                },
+                {
+                    "title": "Biotech/ Pharma/ Chemicals",
+                    "items": [
+                        {
+                            "company": "Sigma Aldrich",
+                            "type": "Large Group Intervention"
+                        },
+                        {
+                            "company": "Sun Pharma",
+                            "type": "Outbound Learning"
+                        },
+                        {
+                            "company": "Desmet Ballestra",
+                            "type": "Business Skills Dev"
+                        }
+                    ]
+                },
+                {
+                    "title": "Research & Dev",
+                    "items": [
+                        {
+                            "company": "SABIC",
+                            "type": "Large Group Intervention"
+                        },
+                        {
+                            "company": "Samsung R&D",
+                            "type": "Outbound Learning Series"
+                        },
+                        {
+                            "company": "Applied Materials",
+                            "type": "Leadership Dev OBL"
+                        },
+                        {
+                            "company": "Siemens",
+                            "type": "Outbound Learning Series"
+                        }
+                    ]
+                },
+                {
+                    "title": "Real Estate",
+                    "items": [
+                        {
+                            "company": "Shapoorji Pallonji",
+                            "type": "ADC + Leadership Dev + Coaching"
+                        },
+                        {
+                            "company": "Mantri Developers",
+                            "type": "Leadership Dev OBL"
+                        },
+                        {
+                            "company": "Brigade",
+                            "type": "Outbound Learning"
+                        }
+                    ]
+                },
+                {
+                    "title": "Telecom",
+                    "items": [
+                        {
+                            "company": "Airtel",
+                            "type": "Sr Leadership Breakthrough W/s"
+                        },
+                        {
+                            "company": "Vodafone",
+                            "type": "Leadership Dev OBL"
+                        }
+                    ]
+                },
+                {
+                    "title": "Beauty & Wellness",
+                    "items": [
+                        {
+                            "company": "Celebrate Life",
+                            "type": ""
+                        },
+                        {
+                            "company": "SJ Artistry Academy",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Hospitality",
+                    "items": [
+                        {
+                            "company": "Sterling Holidays",
+                            "type": "Sr Leadership Immersion Pgm"
+                        },
+                        {
+                            "company": "La Couronne Patisserie & Cafe",
+                            "type": ""
+                        },
+                        {
+                            "company": "Keptico Ventures",
+                            "type": "Hard Rock Cafe, Bombay Brasserie, CTR, Indian Tiffin House, Madras Square, Vivaha"
+                        }
+                    ]
+                }
+            ],
+            "splitTitle": "Ready to Transform\nYour Organization?",
+            "splitSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "splitLabel": "Get in Touch",
+            "splitHref": "/connect",
+            "splitImage": "/images/engagements/cta-group.jpg",
+            "splitAlt": "Group Photo with Dr. Aman Jain"
+        }
+    },
+    {
+        "slug": "books",
+        "title": "Books",
+        "eyebrow": "",
+        "summary": "Books page",
+        "body": "",
+        "status": "published"
+    },
+    {
+        "slug": "books/from-fomo-to-jomo",
+        "title": "From FOMO to JOMO",
+        "eyebrow": "",
+        "summary": "From FOMO to JOMO",
+        "body": "",
+        "status": "published",
+        "book": {
+            "heading": "Coming Soon!",
+            "subheading": "When did you last choose where your\nattention went?",
+            "namePlaceholder": "First Name Last Name",
+            "emailPlaceholder": "Email",
+            "buttonLabel": "Notify me",
+            "logo": "/images/books/aman-jain-sign.png",
+            "logoAlt": "Aman Jain",
+            "cover": "/images/books/book-front.webp",
+            "coverAlt": "From FOMO to JOMO - Dr. Aman Jain",
+            "coverHref": "/images/books/book-cover-full.webp",
+            "quote": "\"Today, a new endemic has infected most of our lives — that of busy-ness. It comes with FOMO, where we don't dare to pause or slow down or we will be left behind.\"",
+            "authorName": "Dave Ulrich, from the Foreword",
+            "authorPhoto": "",
+            "authorPhotoAlt": "Dave Ulrich",
+            "authorInfo": "Rensis Likert Professor Emeritus, Ross School of Business,\nUniversity of Michigan | Partner, The RBI Group",
+            "insideTitle": "What's Inside?",
+            "chapters": [
+                {
+                    "number": "01",
+                    "title": "Who They Are?",
+                    "description": "\"The generation that grew up twice — once offline, once on.\"",
+                    "image": "/images/books/chapter-1.png",
+                    "alt": "Who They Are",
+                    "points": [
+                        {
+                            "number": "01",
+                            "text": "A Generation in\nTransition"
+                        },
+                        {
+                            "number": "02",
+                            "text": "Shaped by a\nDivided World"
+                        },
+                        {
+                            "number": "03",
+                            "text": "Always Connected\nyet Somehow Alone"
+                        }
+                    ]
+                },
+                {
+                    "number": "02",
+                    "title": "The Digital Self",
+                    "description": "\"Why you cannot look away. It is not weakness. It is wiring.\"",
+                    "image": "/images/books/chapter-2.png",
+                    "alt": "The Digital Self",
+                    "points": [
+                        {
+                            "number": "01",
+                            "text": "A Generation in\nTransition"
+                        },
+                        {
+                            "number": "02",
+                            "text": "Shaped by a\nDivided World"
+                        },
+                        {
+                            "number": "03",
+                            "text": "Always Connected\nyet Somehow Alone"
+                        }
+                    ]
+                },
+                {
+                    "number": "03",
+                    "title": "Finding Balance",
+                    "description": "\"What it looks like when you stop performing and start living.\"",
+                    "image": "/images/books/chapter-3.png",
+                    "alt": "Finding Balance",
+                    "points": [
+                        {
+                            "number": "01",
+                            "text": "A Generation in\nTransition"
+                        },
+                        {
+                            "number": "02",
+                            "text": "Shaped by a\nDivided World"
+                        },
+                        {
+                            "number": "03",
+                            "text": "Always Connected\nyet Somehow Alone"
+                        }
+                    ]
+                },
+                {
+                    "number": "04",
+                    "title": "Building Better\nHabits",
+                    "description": "\"The platform knows more about you than you do. What to do with that.\"",
+                    "image": "/images/books/chapter-4.svg",
+                    "alt": "Building Better Habits",
+                    "points": [
+                        {
+                            "number": "01",
+                            "text": "A Generation in\nTransition"
+                        },
+                        {
+                            "number": "02",
+                            "text": "Shaped by a\nDivided World"
+                        },
+                        {
+                            "number": "03",
+                            "text": "Always Connected\nyet Somehow Alone"
+                        }
+                    ]
+                },
+                {
+                    "number": "05",
+                    "title": "The Bigger\nPicture",
+                    "description": "\"What all of this means for the people and organisations around you.\"",
+                    "image": "/images/books/chapter-5.svg",
+                    "alt": "The Bigger Picture",
+                    "points": [
+                        {
+                            "number": "01",
+                            "text": "A Generation in\nTransition"
+                        },
+                        {
+                            "number": "02",
+                            "text": "Shaped by a\nDivided World"
+                        },
+                        {
+                            "number": "03",
+                            "text": "Always Connected\nyet Somehow Alone"
+                        }
+                    ]
+                }
+            ],
+            "voicesTitle": "In the Words of Leaders",
+            "voicesSubtitle": "Thought Leaders, Practitioners, Change Makers.",
+            "voicesDesc": "Here's what they are saying about the book.",
+            "featured": {
+                "name": "Kiran Mazumdar Shaw",
+                "role": "",
+                "quote": "\"From FOMO to JOMO is a book that challenges us to rethink what it means to live a fulfilling life in the age of endless choice and constant connectivity. It is insightful, provocative and practical and makes a compelling case for stepping away from the fear of missing out and discovering the joy of choosing what truly matters. A timely book for a generation of Zillennials that has everything at its fingertips, yet may need to rediscover the value of simply being present.\"",
+                "photo": "/images/books/kiran.jpg",
+                "photoAlt": "Kiran Mazumdar Shaw",
+                "logo": "/images/books/kiran-logo.png",
+                "logoAlt": "Logo"
+            },
+            "voices": [
+                {
+                    "name": "T.V. Mohandas Pai",
+                    "role": "Chairman, Aarin Capital Partners",
+                    "quote": "\"We live in a turbulent world driven by social media, which seems to consume our lives. Behind it lie powerful vested interests trying to control our minds and push us in directions they want us to take. The current generation, brought up on social media, seems to live in a different world — devoid of filters, devoid of editing, free for all. In this new world, we need to grow our capacity to judge what narratives we get, to search for facts and truth, so that we remain free citizens capable of individual judgement. From FOMO to JOMO examines the good and the bad of this social media world — and gives this generation, and those who lead them, a language to draw lessons for themselves. This is an important book for our times.\"",
+                    "photo": "/images/books/pai.jpg",
+                    "photoAlt": "T.V. Mohandas Pai",
+                    "logo": "/images/books/aarin-logo.png",
+                    "logoAlt": "Aarin Capital"
+                },
+                {
+                    "name": "Prof. Debolina Dutta",
+                    "role": "Professor, ISB & former VP HR, Schneider Electric",
+                    "quote": "\"From FOMO to JOMO offers a rare, rigorous bridge between the lived experience of Gen Z and Zillennial employees and the realities HR leaders must now design for — a cohort projected to dominate the global workforce by 2030. Dr. Aman Jain turns research on digital burnout, algorithmic identity, and disconnection into concrete practice through the Try This prompts, the Frequency Check, and the 30-day JOMO Journal. Grounded equally in storytelling and peer-reviewed evidence, it is indispensable for any leader shaping the workplace this generation will soon define.\"",
+                    "photo": "/images/books/debolina.webp",
+                    "photoAlt": "Prof. Debolina Dutta",
+                    "logo": "/images/books/debolina-logo.png",
+                    "logoAlt": "Logo"
+                },
+                {
+                    "name": "Priya Venkatesh",
+                    "role": "Leadership Expert & Naturalist",
+                    "quote": "\"In From FOMO to JOMO, Aman brings together the perspective of a practitioner, a leader, and someone who has watched this generation evolve closely. Timely and deeply relevant, the book invites us to move beyond managing people shaped by the digital age to genuinely understanding them. What I particularly enjoyed is its reflective, experiential format — it makes a case for Zillennials while inviting us to engage with ourselves as we explore their world.\"",
+                    "photo": "/images/books/priya.jpg",
+                    "photoAlt": "Priya Venkatesh",
+                    "logo": "/images/books/naturalist-logo.png",
+                    "logoAlt": "Naturalist"
+                },
+                {
+                    "name": "Vinay Sirsi",
+                    "role": "Executive Coach & Leadership Consultant",
+                    "quote": "\"A much-needed map for young adults authoring their own attention in a hyper-connected world — and for the leaders who employ and manage them. As a father of twin Zillennials trying to figure out the algorithm, I found Aman's guide genuinely pragmatic. It gently nudges every reader to examine their own algorithms, too, through tips and tools you can actually use. A timely, humane book.\"",
+                    "photo": "/images/books/vinay.jpg",
+                    "photoAlt": "Vinay Sirsi",
+                    "logo": "/images/books/naturalist-logo.png",
+                    "logoAlt": "Naturalist"
+                }
+            ],
+            "whoTitle": "Who is it for?",
+            "whoAudiences": [
+                {
+                    "title": "I am a Zillennial",
+                    "text": "You are not the problem. The environment is. This book gives you the language for what you have been feeling."
+                },
+                {
+                    "title": "I work with Zillennials",
+                    "text": "This is not a book about managing Gen Z. It is a book about understanding the conditions that produce their experience."
+                },
+                {
+                    "title": "I lead Zillennials",
+                    "text": "This book will change how you see the generation you are responsible for."
+                }
+            ],
+            "whoLine": "This book is built to be used, not just read.",
+            "whoNamePlaceholder": "First Name Last Name",
+            "whoEmailPlaceholder": "Email",
+            "whoButtonLabel": "Notify me",
+            "ctaTitle": "Ready to Transform Your Organization?",
+            "ctaSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "ctaLabel": "Get in Touch",
+            "ctaHref": "/connect",
+            "slides": [
+                {
+                    "id": "fomo-panel",
+                    "template": "panel",
+                    "eyebrow": "RELEASING NOVEMBER 2026",
+                    "title": "Coming\nSoon!",
+                    "subtitle": "When did you last choose where your attention went?",
+                    "quote": "“…makes a compelling case for stepping away from the fear of missing out and discovering the joy of choosing what truly matters.”",
+                    "quoteName": "Kiran Mazumdar-Shaw",
+                    "quoteRole": "Executive Chairperson, Biocon Ltd.",
+                    "buttonLabel": "Notify me",
+                    "href": "/connect",
+                    "image": "/images/books/fomo-hills.svg",
+                    "alt": "Quiet hills",
+                    "rings": [
+                        {
+                            "background": "#DFF7EF",
+                            "opacity": 0.35
+                        },
+                        {
+                            "background": "#CDEFF0",
+                            "opacity": 0.45
+                        },
+                        {
+                            "background": "#C9D8F5",
+                            "opacity": 0.55
+                        }
+                    ]
+                },
+                {
+                    "id": "fomo-arch",
+                    "template": "arch",
+                    "eyebrow": "TOOLS INSIDE",
+                    "title": "Not Just a Read.\nA Practice.",
+                    "subtitle": "Turn ideas into habits with Try This prompts, the Frequency Check and the 30-day JOMO Journal.",
+                    "badge": "30-day JOMO Journal inside",
+                    "ticker": "PAUSE  ◆  CHOOSE  ◆  BE PRESENT",
+                    "buttonLabel": "Notify me",
+                    "href": "/connect",
+                    "image": "/images/books/book-front.webp",
+                    "alt": "From FOMO to JOMO",
+                    "rings": [
+                        {
+                            "background": "#DFF7EF",
+                            "opacity": 0.35
+                        },
+                        {
+                            "background": "#CDEFF0",
+                            "opacity": 0.45
+                        },
+                        {
+                            "background": "#C9D8F5",
+                            "opacity": 0.55
+                        }
+                    ]
+                },
+                {
+                    "id": "fomo-word",
+                    "template": "word",
+                    "eyebrow": "THE IDEA",
+                    "title": "Stop Scrolling.\nStart Choosing.",
+                    "subtitle": "From the fear of missing out to the joy of being present.",
+                    "bigWord": "JOMO",
+                    "badge": "NOV",
+                    "ticker": "RELEASING NOVEMBER 2026",
+                    "buttonLabel": "Notify me",
+                    "href": "/connect",
+                    "image": "/images/books/book-front.webp",
+                    "alt": "From FOMO to JOMO",
+                    "rings": [
+                        {
+                            "background": "#DFF7EF",
+                            "opacity": 0.35
+                        },
+                        {
+                            "background": "#CDEFF0",
+                            "opacity": 0.45
+                        },
+                        {
+                            "background": "#C9D8F5",
+                            "opacity": 0.55
+                        }
+                    ]
+                }
+            ],
+            "bannerHidden": false
+        }
+    },
+    {
+        "slug": "books/recommended",
+        "title": "Recommended Books",
+        "eyebrow": "",
+        "summary": "Recommended Books",
+        "body": "",
+        "status": "published",
+        "recommended": {
+            "title": "Recommended Books",
+            "description": "A curated collection of reads to inspire leadership, growth, and transformation.",
+            "image": "/images/books/recommended-hero.svg",
+            "alt": "Recommended Books",
+            "listTitle": "Recommended Books",
+            "listSubtitle": "Essential reads for leadership, personal growth, and professional development",
+            "books": [
+                {
+                    "title": "The Leadership Challenge",
+                    "cover": "/images/books/reco-01.png",
+                    "alt": "The Leadership Challenge",
+                    "rating": "4.6 (2234 reviews)",
+                    "author": "James M. Kouzes & Barry Z. Posner",
+                    "year": "2017",
+                    "publisher": "Wiley",
+                    "about": "A comprehensive guide to leadership excellence that presents five fundamental practices enabling leaders to achieve extraordinary results.",
+                    "highlights": [
+                        "Five fundamental leadership practices",
+                        "Evidence-based leadership strategies",
+                        "Real-world case studies and examples",
+                        "Tools for personal leadership development"
+                    ]
+                },
+                {
+                    "title": "Dare to Lead",
+                    "cover": "/images/books/reco-02.png",
+                    "alt": "Dare to Lead",
+                    "rating": "4.8 (3234 reviews)",
+                    "author": "Brené Brown",
+                    "year": "2018",
+                    "publisher": "Random House",
+                    "about": "A groundbreaking guide to courageous leadership. Brown explores how vulnerability and courage go hand in hand for leaders who want to build brave, resilient teams.",
+                    "highlights": [
+                        "Vulnerability as a leadership strength",
+                        "Building brave, trusting teams",
+                        "Practical courage-building skills",
+                        "Rumbling with tough conversations"
+                    ]
+                },
+                {
+                    "title": "Leaders Eat Last",
+                    "cover": "/images/books/reco-03.png",
+                    "alt": "Leaders Eat Last",
+                    "rating": "4.6 (1872 reviews)",
+                    "author": "Simon Sinek",
+                    "year": "2014",
+                    "publisher": "Portfolio",
+                    "about": "A powerful examination of why some teams thrive while others struggle. Sinek explores how great leaders create safe environments where people feel valued.",
+                    "highlights": [
+                        "The biology of trust and cooperation",
+                        "Building circles of safety",
+                        "Creating loyal and committed teams",
+                        "Leadership lessons from the military"
+                    ]
+                },
+                {
+                    "title": "Atomic Habits",
+                    "cover": "/images/books/reco-04.png",
+                    "alt": "Atomic Habits",
+                    "rating": "4.9 (3421 reviews)",
+                    "author": "James Clear",
+                    "year": "2018",
+                    "publisher": "Avery",
+                    "about": "A groundbreaking guide to transforming your life through tiny changes. Clear reveals practical strategies for forming good habits and breaking bad ones.",
+                    "highlights": [
+                        "The science of habit formation",
+                        "Four laws of behavior change",
+                        "Strategies for building lasting habits",
+                        "Practical frameworks and systems"
+                    ]
+                },
+                {
+                    "title": "The Gifts of Imperfection",
+                    "cover": "/images/books/reco-05.jpg",
+                    "alt": "The Gifts of Imperfection",
+                    "rating": "4.7 (1965 reviews)",
+                    "author": "Brené Brown",
+                    "year": "2010",
+                    "publisher": "Hazelden Publishing",
+                    "about": "An inspiring guide to letting go of perfectionism and embracing authenticity. Brown shows how to cultivate courage, compassion, and connection.",
+                    "highlights": [
+                        "Ten guideposts for wholehearted living",
+                        "Letting go of perfectionism",
+                        "Cultivating self-compassion",
+                        "Building resilience and authenticity"
+                    ]
+                },
+                {
+                    "title": "Mindset",
+                    "cover": "/images/books/reco-06.webp",
+                    "alt": "Mindset",
+                    "rating": "4.6 (2234 reviews)",
+                    "author": "Carol Dweck",
+                    "year": "2006",
+                    "publisher": "Random House",
+                    "about": "A revolutionary exploration of how our beliefs about abilities shape our lives. Dweck reveals the power of developing a growth mindset for achieving success.",
+                    "highlights": [
+                        "Fixed vs. growth mindset framework",
+                        "Transforming your self-beliefs",
+                        "Achieving success through mindset",
+                        "Applications in business and education"
+                    ]
+                },
+                {
+                    "title": "The Daily Stoic",
+                    "cover": "/images/books/reco-07.webp",
+                    "alt": "The Daily Stoic",
+                    "rating": "4.7 (2891 reviews)",
+                    "author": "Ryan Holiday",
+                    "year": "2016",
+                    "publisher": "Portfolio",
+                    "about": "A collection of 366 daily meditations on wisdom, perseverance, and the art of living from Stoic philosophers.",
+                    "highlights": [
+                        "Daily Stoic wisdom and reflections",
+                        "Ancient philosophy for modern life",
+                        "Practical exercises for resilience",
+                        "Timeless principles for better living"
+                    ]
+                },
+                {
+                    "title": "Start With Why",
+                    "cover": "/images/books/reco-08.webp",
+                    "alt": "Start With Why",
+                    "rating": "4.6 (3156 reviews)",
+                    "author": "Simon Sinek",
+                    "year": "2009",
+                    "publisher": "Portfolio",
+                    "about": "A profound exploration of what separates great leaders and organizations from the rest. Sinek introduces the Golden Circle concept.",
+                    "highlights": [
+                        "The Golden Circle framework",
+                        "Purpose-driven leadership principles",
+                        "Inspiring people to take action",
+                        "Building loyal followings and movements"
+                    ]
+                },
+                {
+                    "title": "The Mountain Is You",
+                    "cover": "/images/books/reco-09.webp",
+                    "alt": "The Mountain Is You",
+                    "rating": "4.8 (1789 reviews)",
+                    "author": "Brianna Wiest",
+                    "year": "2020",
+                    "publisher": "Thought Catalog Books",
+                    "about": "A transformative guide to self-sabotage and self-mastery. Wiest explores how our biggest obstacles are often within ourselves.",
+                    "highlights": [
+                        "Understanding self-sabotage patterns",
+                        "Techniques for emotional mastery",
+                        "Building unshakeable self-confidence",
+                        "Practical tools for transformation"
+                    ]
+                },
+                {
+                    "title": "Big Magic",
+                    "cover": "/images/books/reco-10.webp",
+                    "alt": "Big Magic",
+                    "rating": "4.5 (2145 reviews)",
+                    "author": "Elizabeth Gilbert",
+                    "year": "2015",
+                    "publisher": "Riverhead Books",
+                    "about": "An inspiring manifesto on creativity and living a life driven by curiosity rather than fear. Gilbert shares her wisdom about the mysterious nature of inspiration.",
+                    "highlights": [
+                        "Embracing creative living beyond fear",
+                        "Understanding the nature of inspiration",
+                        "Permission to pursue curiosity",
+                        "Practical advice for creative courage"
+                    ]
+                },
+                {
+                    "title": "The Five Dysfunctions of a Team",
+                    "cover": "/images/books/reco-11.webp",
+                    "alt": "The Five Dysfunctions of a Team",
+                    "rating": "4.6 (2567 reviews)",
+                    "author": "Patrick Lencioni",
+                    "year": "2002",
+                    "publisher": "Jossey-Bass",
+                    "about": "A leadership fable revealing the fundamental causes of organizational politics and team failure. Lencioni provides a powerful model for building cohesive teams.",
+                    "highlights": [
+                        "Five key dysfunctions framework",
+                        "Building trust within teams",
+                        "Overcoming team challenges",
+                        "Practical team assessment tools"
+                    ]
+                },
+                {
+                    "title": "Good to Great",
+                    "cover": "/images/books/reco-12.jpg",
+                    "alt": "Good to Great",
+                    "rating": "4.7 (3891 reviews)",
+                    "author": "Jim Collins",
+                    "year": "2001",
+                    "publisher": "HarperBusiness",
+                    "about": "A rigorous analysis of what distinguishes truly great companies from good ones. Collins identifies timeless principles that propel companies to extraordinary performance.",
+                    "highlights": [
+                        "Level 5 leadership principles",
+                        "The Hedgehog Concept framework",
+                        "Culture of discipline strategies",
+                        "Flywheel effect for momentum"
+                    ]
+                },
+                {
+                    "title": "Multipliers",
+                    "cover": "/images/books/reco-13.webp",
+                    "alt": "Multipliers",
+                    "rating": "4.6 (1654 reviews)",
+                    "author": "Liz Wiseman",
+                    "year": "2010",
+                    "publisher": "HarperBusiness",
+                    "about": "A groundbreaking exploration of how great leaders amplify the intelligence and capabilities of those around them. Wiseman contrasts Multipliers who make everyone smarter with Diminishers, providing strategies to unlock genius in organizations.",
+                    "highlights": [
+                        "Multiplier vs. Diminisher behaviors",
+                        "Amplifying team intelligence",
+                        "Creating cultures of genius",
+                        "Practical leadership disciplines"
+                    ]
+                },
+                {
+                    "title": "Radical Candor",
+                    "cover": "/images/books/reco-14.webp",
+                    "alt": "Radical Candor",
+                    "rating": "4.5 (2234 reviews)",
+                    "author": "Kim Scott",
+                    "year": "2017",
+                    "publisher": "St. Martin's Press",
+                    "about": "A practical guide to being a better boss through caring personally while challenging directly. Scott provides a framework for giving feedback that builds trust and drives performance, creating teams where people love their work and working together.",
+                    "highlights": [
+                        "Radical Candor framework",
+                        "Effective feedback techniques",
+                        "Building trust through honesty",
+                        "Creating high-performing teams"
+                    ]
+                },
+                {
+                    "title": "Coaching Agile Teams",
+                    "cover": "/images/books/reco-15.webp",
+                    "alt": "Coaching Agile Teams",
+                    "rating": "4.4 (987 reviews)",
+                    "author": "Lyssa Adkins",
+                    "year": "2010",
+                    "publisher": "Addison-Wesley",
+                    "about": "The definitive guide for agile coaches helping teams become high-performing. Adkins draws on her experience to show how to coach teams to collaborate better, deliver more, and grow into self-organizing units that thrive in agile environments.",
+                    "highlights": [
+                        "Agile coaching fundamentals",
+                        "Building self-organizing teams",
+                        "Facilitating team development",
+                        "Navigating organizational challenges"
+                    ]
+                },
+                {
+                    "title": "The 21 Irrefutable Laws of Leadership",
+                    "cover": "/images/books/reco-16.webp",
+                    "alt": "The 21 Irrefutable Laws of Leadership",
+                    "rating": "4.7 (4321 reviews)",
+                    "author": "John C. Maxwell",
+                    "year": "1998",
+                    "publisher": "Thomas Nelson",
+                    "about": "A comprehensive exploration of timeless leadership principles that have been proven across cultures and organizations. Maxwell distills decades of leadership experience into powerful laws that anyone can apply to increase their influence and effectiveness.",
+                    "highlights": [
+                        "21 fundamental leadership laws",
+                        "Timeless principles for influence",
+                        "Real-world leadership examples",
+                        "Practical application strategies"
+                    ]
+                }
+            ],
+            "ctaTitle": "Ready to Transform Your Organization?",
+            "ctaSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "ctaLabel": "Get in Touch",
+            "ctaHref": "/connect"
+        }
+    },
+    {
+        "slug": "on-air",
+        "title": "On Air",
+        "eyebrow": "",
+        "summary": "On Air page",
+        "body": "",
+        "status": "published"
+    },
+    {
+        "slug": "on-air/podcasts",
+        "title": "Podcasts",
+        "eyebrow": "",
+        "summary": "Podcasts",
+        "body": "",
+        "status": "published",
+        "podcast": {
+            "title": "Podcasts,\nInterviews & Media\nAppearances",
+            "description": "Conversations on leadership, talent strategy, and organizational excellence (Featured interviews, talks, and media coverage)",
+            "heroButtonLabel": "Let's Talk",
+            "heroButtonHref": "/connect",
+            "image": "/images/on-air/podcast-person.webp",
+            "imageAlt": "Dr. Aman Jain",
+            "camera": "/images/on-air/podcast-camera.svg",
+            "cameraAlt": "Camera illustration",
+            "mic": "/images/on-air/podcast-mic.svg",
+            "micAlt": "Mic Icon",
+            "featuringLead": "Podcasts Featuring",
+            "featuringAccent": "Dr. Aman Jain",
+            "featuringSubtitle": "Expert insights and thought leadership on HR and organizational excellence",
+            "featuringButton": "Listen Now",
+            "featuring": [
+                {
+                    "title": "HR to CHRO Podcast with Dr Aman Jain – CHRO e2E Rail",
+                    "description": "Dr. Aman Jain shares deep insights on transforming HR practices for the digital era, blending his practitioner experience with...",
+                    "image": "/images/on-air/pod-hr.png",
+                    "alt": "HR to CHRO Podcast with Dr Aman Jain – CHRO e2E Rail",
+                    "duration": "1 hr 2 min",
+                    "href": "https://www.youtube.com/watch?v=OJl8bQ8j6C0",
+                    "tags": [
+                        "Professional Journey",
+                        "Power of Mentorship",
+                        "Key Success Secrets"
+                    ]
+                },
+                {
+                    "title": "In conversation with Dr. Aman Jain, CHRO, E2E Rail Public Limited Company",
+                    "description": "Interview with Dr. Aman Jain, CHRO of e2E Rail Public Limited Company, as he shares his experiences and journey...",
+                    "image": "/images/on-air/pod-e2e.jpg",
+                    "alt": "In conversation with Dr. Aman Jain, CHRO, E2E Rail Public Limited Company",
+                    "duration": "15 min 36 sec",
+                    "href": "https://www.youtube.com/watch?v=kG_6ptQ2StU",
+                    "tags": [
+                        "His journey with e2E Rail",
+                        "Who motivates him",
+                        "Non-negotiable morning routines"
+                    ]
+                },
+                {
+                    "title": "Talent Development & Future of Learning with Dr. Aman Jain",
+                    "description": "Dr. Aman Jain shares deep insights on transforming HR practices for the modern workforce and organizational growth...",
+                    "image": "/images/on-air/pod-talent.webp",
+                    "alt": "Talent Development & Future of Learning with Dr. Aman Jain",
+                    "duration": "1 hr 2 min",
+                    "href": "https://podcasts.apple.com/in/podcast/ep-90-talent-development-future-of-learning-with-dr/id1516649194?i=1000577326206",
+                    "tags": [
+                        "Talent Development",
+                        "Future of Learning",
+                        "HR Practice"
+                    ]
+                }
+            ],
+            "recommendedTitle": "Recommended Podcasts",
+            "recommendedSubtitle": "Curated podcasts for continuous learning and professional development",
+            "recommendedButton": "Listen Now",
+            "recommended": [
+                {
+                    "title": "Leadership Podcast Series by BCG in India",
+                    "description": "A recent addition to the collection of leadership podcasts, this podcast throws light on the Indian business ecosystem and...",
+                    "image": "/images/on-air/pod-bcg.jpg",
+                    "alt": "Leadership Podcast Series by BCG in India",
+                    "duration": "1 hr 2 min",
+                    "href": "https://open.spotify.com/show/13ILMVt5PYekN6YsNczNmP",
+                    "tags": [
+                        "Future of Work",
+                        "HR Technology",
+                        "Culture"
+                    ]
+                },
+                {
+                    "title": "Maxwell Leadership Podcast",
+                    "description": "This podcast by New York Times bestselling author John Maxwell explores the key qualities of transformational leadership...",
+                    "image": "/images/on-air/pod-hr.png",
+                    "alt": "Maxwell Leadership Podcast",
+                    "duration": "15 min 36 sec",
+                    "href": "https://podcasts.apple.com/us/podcast/the-maxwell-leadership-podcast/id592655370",
+                    "tags": [
+                        "Team Building",
+                        "Leadership",
+                        "Performance"
+                    ]
+                },
+                {
+                    "title": "WorkLife with Adam Grant",
+                    "description": "Adam Grant explores the science of making work better, with conversations on motivation, leadership, and how people actually work.",
+                    "image": "/images/on-air/pod-worklife.png",
+                    "alt": "WorkLife with Adam Grant",
+                    "duration": "1 hr 2 min",
+                    "href": "https://www.ted.com/podcasts/worklife",
+                    "tags": [
+                        "Recruitment",
+                        "Employer Brand",
+                        "Technology"
+                    ]
+                }
+            ],
+            "mediaTitle": "Media Appearances",
+            "mediaSubtitle": "Featured interviews, talks, and media coverage",
+            "mediaVideo": "https://www.youtube.com/embed/OJl8bQ8j6C0",
+            "mediaCaption": "Listing ceremony of E TO E Transportation Infrastructure Limited",
+            "closeTitle": "Ready to Transform\nYour Organization?",
+            "closeSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "closeLabel": "Get in Touch",
+            "closeHref": "/connect",
+            "closeImage": "/images/on-air/podcast-group.jpg",
+            "closeAlt": "Group Photo with Dr. Aman Jain",
+            "gossipTitle": "The Leadership Gossip",
+            "gossipSubtitle": "",
+            "gossipButton": "Listen Now",
+            "gossip": []
+        }
+    },
+    {
+        "slug": "on-air/media-appearances",
+        "title": "Media Appearances",
+        "eyebrow": "",
+        "summary": "Media Appearances",
+        "body": "",
+        "status": "published",
+        "podcast": {
+            "title": "Media\nAppearances",
+            "description": "Conversations on leadership, talent strategy, and organizational excellence (Featured interviews, talks, and media coverage)",
+            "heroButtonLabel": "Let's Talk",
+            "heroButtonHref": "/connect",
+            "image": "/images/on-air/podcast-person.webp",
+            "imageAlt": "Dr. Aman Jain",
+            "camera": "/images/on-air/podcast-camera.svg",
+            "cameraAlt": "Camera illustration",
+            "mic": "/images/on-air/podcast-mic.svg",
+            "micAlt": "Mic Icon",
+            "featuringLead": "Podcasts Featuring",
+            "featuringAccent": "Dr. Aman Jain",
+            "featuringSubtitle": "Expert insights and thought leadership on HR and organizational excellence",
+            "featuringButton": "Listen Now",
+            "featuring": [
+                {
+                    "title": "HR to CHRO Podcast with Dr Aman Jain – CHRO e2E Rail",
+                    "description": "Dr. Aman Jain shares deep insights on transforming HR practices for the digital era, blending his practitioner experience with...",
+                    "image": "/images/on-air/pod-hr.png",
+                    "alt": "HR to CHRO Podcast with Dr Aman Jain – CHRO e2E Rail",
+                    "duration": "1 hr 2 min",
+                    "href": "https://www.youtube.com/watch?v=OJl8bQ8j6C0",
+                    "tags": [
+                        "Professional Journey",
+                        "Power of Mentorship",
+                        "Key Success Secrets"
+                    ]
+                },
+                {
+                    "title": "In conversation with Dr. Aman Jain, CHRO, E2E Rail Public Limited Company",
+                    "description": "Interview with Dr. Aman Jain, CHRO of e2E Rail Public Limited Company, as he shares his experiences and journey...",
+                    "image": "/images/on-air/pod-e2e.jpg",
+                    "alt": "In conversation with Dr. Aman Jain, CHRO, E2E Rail Public Limited Company",
+                    "duration": "15 min 36 sec",
+                    "href": "https://www.youtube.com/watch?v=kG_6ptQ2StU",
+                    "tags": [
+                        "His journey with e2E Rail",
+                        "Who motivates him",
+                        "Non-negotiable morning routines"
+                    ]
+                },
+                {
+                    "title": "Talent Development & Future of Learning with Dr. Aman Jain",
+                    "description": "Dr. Aman Jain shares deep insights on transforming HR practices for the modern workforce and organizational growth...",
+                    "image": "/images/on-air/pod-talent.webp",
+                    "alt": "Talent Development & Future of Learning with Dr. Aman Jain",
+                    "duration": "1 hr 2 min",
+                    "href": "https://podcasts.apple.com/in/podcast/ep-90-talent-development-future-of-learning-with-dr/id1516649194?i=1000577326206",
+                    "tags": [
+                        "Talent Development",
+                        "Future of Learning",
+                        "HR Practice"
+                    ]
+                }
+            ],
+            "recommendedTitle": "Recommended Podcasts",
+            "recommendedSubtitle": "Curated podcasts for continuous learning and professional development",
+            "recommendedButton": "Listen Now",
+            "recommended": [
+                {
+                    "title": "Leadership Podcast Series by BCG in India",
+                    "description": "A recent addition to the collection of leadership podcasts, this podcast throws light on the Indian business ecosystem and...",
+                    "image": "/images/on-air/pod-bcg.jpg",
+                    "alt": "Leadership Podcast Series by BCG in India",
+                    "duration": "1 hr 2 min",
+                    "href": "https://open.spotify.com/show/13ILMVt5PYekN6YsNczNmP",
+                    "tags": [
+                        "Future of Work",
+                        "HR Technology",
+                        "Culture"
+                    ]
+                },
+                {
+                    "title": "Maxwell Leadership Podcast",
+                    "description": "This podcast by New York Times bestselling author John Maxwell explores the key qualities of transformational leadership...",
+                    "image": "/images/on-air/pod-hr.png",
+                    "alt": "Maxwell Leadership Podcast",
+                    "duration": "15 min 36 sec",
+                    "href": "https://podcasts.apple.com/us/podcast/the-maxwell-leadership-podcast/id592655370",
+                    "tags": [
+                        "Team Building",
+                        "Leadership",
+                        "Performance"
+                    ]
+                },
+                {
+                    "title": "WorkLife with Adam Grant",
+                    "description": "Adam Grant explores the science of making work better, with conversations on motivation, leadership, and how people actually work.",
+                    "image": "/images/on-air/pod-worklife.png",
+                    "alt": "WorkLife with Adam Grant",
+                    "duration": "1 hr 2 min",
+                    "href": "https://www.ted.com/podcasts/worklife",
+                    "tags": [
+                        "Recruitment",
+                        "Employer Brand",
+                        "Technology"
+                    ]
+                }
+            ],
+            "mediaTitle": "Media Appearances",
+            "mediaSubtitle": "Featured interviews, talks, and media coverage",
+            "mediaVideo": "https://www.youtube.com/embed/OJl8bQ8j6C0",
+            "mediaCaption": "Listing ceremony of E TO E Transportation Infrastructure Limited",
+            "closeTitle": "Ready to Transform\nYour Organization?",
+            "closeSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "closeLabel": "Get in Touch",
+            "closeHref": "/connect",
+            "closeImage": "/images/on-air/podcast-group.jpg",
+            "closeAlt": "Group Photo with Dr. Aman Jain",
+            "gossipTitle": "The Leadership Gossip",
+            "gossipSubtitle": "",
+            "gossipButton": "Listen Now",
+            "gossip": [],
+            "mediaItems": [
+                {
+                    "title": "Listing ceremony of E TO E Transportation Infrastructure Limited",
+                    "caption": "Listing ceremony of E TO E Transportation Infrastructure Limited",
+                    "video": "https://www.youtube.com/embed/OJl8bQ8j6C0"
+                }
+            ]
+        }
+    },
+    {
+        "slug": "resources",
+        "title": "Resources",
+        "eyebrow": "",
+        "summary": "Resources page",
+        "body": "",
+        "status": "published"
+    },
+    {
+        "slug": "resources/practice-caselets",
+        "title": "Practice Caselets",
+        "eyebrow": "",
+        "summary": "Practice Caselets",
+        "body": "",
+        "status": "published",
+        "caselets": {
+            "title": "Practice\nCaselets",
+            "description": "Bite-sized case studies from real transformations, ready to download and explore with your teams.",
+            "image": "/images/resources/caselets-hero.webp",
+            "alt": "Practice Caselets Document",
+            "cards": [
+                {
+                    "tag": "TECHNOLOGY / SAAS",
+                    "title": "Scaling Culture During Hypergrowth",
+                    "description": "Rapidly onboarding over 500 employees in 9 months, risking the dilution of core collaborative and innovative culture and leading to slow productivity ramp-up.",
+                    "outcome": "Improved the average ramp-up time for new hires by 34% and increased new hire satisfaction scores by 40 points through a 'Blended Onboarding Journey'.",
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/CaseStudies01.pdf",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "tag": "HOSPITALITY",
+                    "title": "Reviving Engagement in a Distributed Workforce",
+                    "description": "Combatting plummeting employee engagement and soaring attrition across 37 distributed locations post-pandemic, impacting guest experience.",
+                    "outcome": "A 20% jump in the eNPS score and an 18% decrease in attrition rates within six months through a multi-channel 'Revive & Thrive' engagement initiative.",
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/CaseStudies03.pdf",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "tag": "MANUFACTURING",
+                    "title": "Building a Leadership Pipeline",
+                    "description": "Addressing a looming leadership crisis due to planned retirements by systematically identifying and grooming emerging leaders across 14 plants.",
+                    "outcome": "Created a visible pipeline resulting in 25% of identified candidates being promoted and 90% of critical roles having at least one groomed successor.",
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/CaseStudies05.pdf",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "tag": "GLOBAL CAPABILITY CENTER (GCC)",
+                    "title": "Digital HR Transformation Blueprint",
+                    "description": "Struggling with a fragmented HR tech stack across six geographies, leading to poor employee experience and inconsistent people data.",
+                    "outcome": "Developed a future-state Digital HR Transformation Blueprint, securing full executive funding and achieving a 15% reduction in HR administrative queries post-phase-one.",
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/CaseStudies02.pdf",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "tag": "RETAIL & LIFESTYLE",
+                    "title": "Designing a High-Potential Program",
+                    "description": "Losing top performers in critical functions (merchandising and supply chain) due to a lack of clear career paths and structured development for high-potential employees (HiPos).",
+                    "outcome": "Increased HiPo retention by 18% and boosted the internal fill rate for critical mid-senior roles from 40% to 65% within the first year through the 'HiPo Accelerator Program'.",
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/CaseStudies04.pdf",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "tag": "LOGISTICS & MOBILITY",
+                    "title": "Embedding Coaching at Scale",
+                    "description": "Driving a culture of safety and customer-centricity and embedding sustainable behavioral change at scale across a massive, distributed frontline workforce.",
+                    "outcome": "Launched a 'Coaching Guild' program, leading to a 15% reduction in safety incidents, a 25% drop in customer complaints, and a measurable productivity lift.",
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/CaseStudies06.pdf",
+                    "buttonLabel": "Read Article"
+                }
+            ],
+            "ctaTitle": "Ready to Transform Your Organization?",
+            "ctaSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "ctaLabel": "Get in Touch",
+            "ctaHref": "/connect"
+        }
+    },
+    {
+        "slug": "resources/articles-research-papers",
+        "title": "Article & Research Papers",
+        "eyebrow": "",
+        "summary": "Article & Research Papers",
+        "body": "",
+        "status": "published",
+        "articles": {
+            "title": "Articles &\nResearch Papers",
+            "description": "Explore a curated set of research-backed insights, field-tested methodologies, and transformational case studies that illuminate the future of leadership, learning, and organizational design Published by Dr.Aman Jain.",
+            "image": "/images/resources/articles-hero.webp",
+            "alt": "Articles and Research Papers Icon",
+            "newsletterTitle": "LinkedIn Newsletter",
+            "newsletterText": "Every new article is published here on this page, and the same writing goes out on the LinkedIn newsletter.",
+            "newsletterLabel": "Open on LinkedIn",
+            "newsletterHref": "https://www.linkedin.com/newsletters/the-human-read-7504553329180577794/",
+            "listTitle": "Published Articles",
+            "listSubtitle": "Thought leadership on HR, talent strategy, and organizational excellence.\nProfessional presentations and research materials available for download.",
+            "features": [
+                {
+                    "magazine": "Business Manager Magazine",
+                    "title": "This Year Will See Changing Work Models",
+                    "description": "Cover feature article discussing the 2025 workplace landscape, focusing on AI integration, human-centric leadership, and the evolution of hybrid work models.",
+                    "highlights": [
+                        "AI & Automation",
+                        "Human-Centric Leadership",
+                        "Future Work Trends",
+                        "Skill Gap Strategies"
+                    ],
+                    "href": "https://thepridethaispa.com/wp-content/uploads/2026/09/Dr.-Aman-Jain.pdf",
+                    "buttonLabel": "Download PDF"
+                },
+                {
+                    "magazine": "Business Manager Magazine",
+                    "title": "Technology will play a Crucial Role in Shaping PMS of Future",
+                    "description": "A detailed cover feature exploring the digital transformation of Performance Management Systems (PMS). Dr. Jain discusses the shift from annual reviews to real-time feedback, the role of AI in removing bias, and managing the performance of gig and remote workforces.",
+                    "highlights": [
+                        "Real-time Performance Metrics",
+                        "AI in Bias Reduction",
+                        "VUCA World Coaching",
+                        "Gig Workforce Performance",
+                        "Data-Driven Goal Setting"
+                    ],
+                    "href": "https://thepridethaispa.com/wp-content/uploads/2026/09/Dr.-Aman-Jain-2.pdf",
+                    "buttonLabel": "Download PDF"
+                }
+            ],
+            "cards": [
+                {
+                    "title": "Beyond the Paycheck: Securing Your Family's Future - A Deep Dive into Employee Death Benefits in India",
+                    "description": "Based on Personal Experience. The loss of an employee...",
+                    "image": "/images/resources/articles/1749879102479.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "5 min",
+                    "href": "https://www.linkedin.com/pulse/beyond-paycheck-securing-your-familys-future-deep-dive-jain-bpzfc",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Supervisory Development Program: Empowering Future Leaders Across Industries",
+                    "description": "Experience-based Article. With over 15 years of...",
+                    "image": "/images/resources/articles/1736305992126.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/supervisory-development-program-empowering-future-leaders-jain-ostgc",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "From Rookie to Rockstar: Navigating the CEO Maze for First-Timers",
+                    "description": "Research based Article. The journey from executive to CEO...",
+                    "image": "/images/resources/articles/1732558097344.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/from-rookie-rockstar-navigating-ceo-maze-first-timers-dr-aman-jain-qt81c/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Flip the Script: How Reverse Mentoring is Turning Leadership on Its Head!",
+                    "description": "Research-based Article. Reverse mentoring is an innovative...",
+                    "image": "/images/resources/articles/1731338869773.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/flip-script-how-reverse-mentoring-turning-leadership-its-jain-7rinc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Employee Voice: Engagement Surveys",
+                    "description": "Research + Snippets from Professional Experience...",
+                    "image": "/images/resources/articles/1726711714473.png",
+                    "alt": "Thumbnail",
+                    "duration": "5 min",
+                    "href": "https://www.linkedin.com/pulse/employee-voice-engagement-surveys-dr-aman-jain-v3boc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "The Art of Developing Others: Understanding Teaching, Instructing, Facilitating, Training, Mentoring, and Coaching",
+                    "description": "As professionals, we often find ourselves in roles where we're...",
+                    "image": "/images/resources/articles/1720671224639.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/art-developing-others-understanding-teaching-instructing-jain-rbagc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Statutory Payments in the Service Industry",
+                    "description": "Research-based. As a professional in the service industry...",
+                    "image": "/images/resources/articles/1720333569137.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/statutory-payments-service-industry-dr-aman-jain-v0gsc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Mastering the Market: Strategic Salary Benchmarking in Service Industries",
+                    "description": "Research cum Practice. In my recent project on salary...",
+                    "image": "/images/resources/articles/1713529035172.png",
+                    "alt": "Thumbnail",
+                    "duration": "5 min",
+                    "href": "https://www.linkedin.com/pulse/mastering-market-strategic-salary-benchmarking-service-dr-aman-jain-qkhuc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Understanding Generation Z (GenZs): Characteristics and Expectations in the Modern Workplace",
+                    "description": "Research Based. Generation Z, the cohort born...",
+                    "image": "/images/resources/articles/1711336903422.png",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/understanding-generation-z-genzs-characteristics-modern-dr-aman-jain-gmiqc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Unraveling the Intricacies: A Dive into the Neuroscience of the Learning Individual",
+                    "description": "Research based Article. This article delves into the...",
+                    "image": "/images/resources/articles/1708249993654.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "5 min",
+                    "href": "https://www.linkedin.com/pulse/unraveling-intricacies-dive-neuroscience-learning-individual-jain-zpcec/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Whispers of the Wind: A Continuation - Day 2 of the Mesmerizing Road Trip (2/3)",
+                    "description": "Personal Experience. (Day 2 was more of a Historical...)",
+                    "image": "/images/resources/articles/1705218983109.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "5 min",
+                    "href": "https://www.linkedin.com/pulse/whispers-wind-continuation-day-2-mesmerizing-road-trip-jain-fnrwc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Fostering Cohesivity in Leadership Teams: A Cornerstone for Organizational Success",
+                    "description": "Research based + Personal Opinion. In the dynamic...",
+                    "image": "/images/resources/articles/1704948132985.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/fostering-cohesivity-leadership-teams-cornerstone-success-jain-s5gqc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Navigating Leadership Transitions: A Deep Dive into \"The First 90 Days\" by Michael D. Watkins",
+                    "description": "Book Review/Personal Opinion. Introduction: In the realm o...",
+                    "image": "/images/resources/articles/1704216475727.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "6 min",
+                    "href": "https://www.linkedin.com/pulse/navigating-leadership-transitions-deep-dive-first-90-days-jain-i9dbc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "A Journey of Discovery: Road Trip Chronicles from Jaipur to Chennai 1/3",
+                    "description": "Personal Experience. (Day 1 was more of a Spiritual...)",
+                    "image": "/images/resources/articles/1705218983109.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/journey-discovery-road-trip-chronicles-from-jaipur-chennai-jain-ccjuc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Elevating Excellence: A Simple Hi-Pot Identification & Development Framework",
+                    "description": "Practice & Research. In the ever-evolving landscape of...",
+                    "image": "/images/resources/articles/1702608605392.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/elevating-excellence-simple-hi-pot-identification-development-jain-vacyc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "The Toxic Trifecta: Micromanagement, Vanishing Trust, and the Death of Innovation",
+                    "description": "Research, Personal Opinion. As I reflect on my journey...",
+                    "image": "/images/resources/articles/1701315202843.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/toxic-trifecta-micromanagement-vanishing-trust-death-innovation-jain-ttrfc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Unlocking High Performance: The Perils of Intimidation and the Power of Positive Leadership",
+                    "description": "Research & Personal Opinion. In today's rapidly evolving...",
+                    "image": "/images/resources/articles/1698823003780.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/unlocking-high-performance-perils-intimidation-power-positive-jain-gs4zc/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "The Silver Screen and the Corporate Scene: Lessons from HR-Related Movies",
+                    "description": "Collated from multiple sources. We've all had our fair share...",
+                    "image": "/images/resources/articles/1695275558573.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/silver-screen-corporate-scene-lessons-from-hr-related-dr-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Unleashing the Potential of Human Capital ROI in Corporations",
+                    "description": "Collation/Collection from Multiple Sources. In the...",
+                    "image": "/images/resources/articles/1694751651548.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "5 min",
+                    "href": "https://www.linkedin.com/pulse/unleashing-potential-human-capital-roi-corporations-dr-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Profiling Tools, a Comparative Analysis (Validity, Reliability, & Practical Significance)",
+                    "description": "Opinion based on personal practice. As HR...",
+                    "image": "/images/resources/articles/1691820416113.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/profiling-tools-comparative-analysis-validity-reliability-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Unlocking the Power of Achievement Motivation Theory in HR",
+                    "description": "Research based.",
+                    "image": "/images/resources/articles/1691815977759.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/unlocking-power-achievement-motivation-theory-hr-dr-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Servant Leadership in Hospitality Industry",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1684893563410.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/servant-leadership-hospitality-industry-dr-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "e-Learning KPIs - Measures of Success in Digital Learning",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1681973221137.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/e-learning-kpis-measures-success-digital-learning-dr-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Trendy New Gamification Features in eLearning Industry for 2023",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1678543267419.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/trendy-new-gamification-features-elearning-industry-2023-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Digitising Learning in Hospitality Industry",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1678542793850.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/digitising-learning-hospitality-industry-dr-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Future-Proofing Your Hotel/Resort Business with Best People Practices in 2023",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1678510508205.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/future-proofing-your-hotelresort-business-best-people-dr-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Boosting Guest Satisfaction and Operational Excellence: The Power of Mystery Shopping",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1678508825042.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/boosting-guest-satisfaction-operational-excellence-power-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Mentoring Programs in Organizations for a Strong Workplace Culture - Tech Platforms",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1661018519969.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/mentoring-programs-organizations-strong-workplace-culture-jain-1c/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Strategizing to Manage the Digital BLUR",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1629972927526.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/strategizing-manage-digital-blur-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Ramifying Learning Experiences beyond Badges, Scores & Points",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1629346490702.png",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/ramifying-learning-experiences-beyond-badges-scores-points-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Impact Evals - A Critical Learning Effectiveness Aspect (Kirkpatrick Philip Model)",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1628748516241.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/impact-evals-critical-learning-effectiveness-aspect-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "The Art of Journaling & Reflection",
+                    "description": "Journaling serves us as a personal, self-created outlet to organise our...",
+                    "image": "/images/resources/articles/1627559833857.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "6 min",
+                    "href": "https://www.linkedin.com/pulse/art-journaling-reflection-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Unlocking Mindfulness - The Bullet Journal Method By Ryder Carroll",
+                    "description": "Organizing is a skill we all deal with and then resort to ideas on how to...",
+                    "image": "/images/resources/articles/1627025018532.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/unlocking-mindfulness-bullet-journal-method-ryder-carroll-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "The Culture Code by Daniel Coyle",
+                    "description": "Book Review.",
+                    "image": "/images/resources/articles/1626340987140.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "4 min",
+                    "href": "https://www.linkedin.com/pulse/culture-code-daniel-coyle-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Servant Leadership - Impactful art or ineffectual resolve?",
+                    "description": "Servant Leadership, a credo that emphasizes a leader coveting to...",
+                    "image": "/images/resources/articles/1625211802243.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/servant-leadership-impactful-art-ineffectual-resolve-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Data, Insights, Actions, Outcomes: Snippets from Movie - MoneyBall",
+                    "description": "Sports have always ignited a sense of trust, teamwork, courage and...",
+                    "image": "/images/resources/articles/1624590601309.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/data-insights-actions-outcomes-snippets-from-movie-moneyball-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Leaders Eat Last by Simon Sinek",
+                    "description": "How do you take the leap from being just another manager to becoming...",
+                    "image": "/images/resources/articles/1623640031534.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/leaders-eat-last-simon-sinek-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Learning Analytics & its Utility in the Post Covid World",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1623346131231.png",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/learning-analytics-its-utility-post-covid-world-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Actionable Gamification by Yu-Kai Chou",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1622652111275.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/actionable-gamification-yu-kai-chou-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Treasure what we Measure - Learning Analytics to know it all!",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1621777994383.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/treasure-what-we-measure-learning-analytics-know-all-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Dont Teach Me! Let Me Learn - the Millennial Way...",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1570088732223.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "3 min",
+                    "href": "https://www.linkedin.com/pulse/dont-teach-me-let-learn-millennial-way-13-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "HR on Purpose: Developing Deliberate People Passion by Steve Browne",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1571140263311.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/hr-purpose-developing-deliberate-people-passion-steve-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Generations in today's workplace",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1570702577049.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/generations-todays-workplace-aman-jain/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "title": "Data-Driven HR: How to Use Analytics and Metrics to Drive Performance",
+                    "description": "Read this insightful article to learn more...",
+                    "image": "/images/resources/articles/1570004739120.jpg",
+                    "alt": "Thumbnail",
+                    "duration": "2 min",
+                    "href": "https://www.linkedin.com/pulse/data-driven-hr-how-use-analytics-metrics-drive-performance-aman-jain/",
+                    "buttonLabel": "Read Article"
+                }
+            ],
+            "researchTitle": "Research Papers & Case Studies",
+            "researchSubtitle": "Explore a curated set of research-backed insights, field-tested methodologies, and transformational case studies that illuminate the future of leadership, learning, and organizational design Published by Dr.Aman Jain.",
+            "papers": [
+                {
+                    "tone": "teal",
+                    "label": "Research Paper",
+                    "title": "This Year Will See Changing Work Models",
+                    "description": "Cover feature article discussing the 2025 workplace landscape, focusing on AI integration, human-centric leadership, and the evolution of hybrid work models.",
+                    "highlights": [
+                        "AI & Automation",
+                        "Human-Centric Leadership",
+                        "Future Work Trends",
+                        "Skill Gap Strategies"
+                    ],
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/Dr.-Aman-Jain-1.pdf",
+                    "buttonLabel": "Download PDF"
+                },
+                {
+                    "tone": "orange",
+                    "label": "Case Study",
+                    "title": "Technology will play a Crucial Role in Shaping PMS of Future",
+                    "description": "A detailed cover feature exploring the digital transformation of Performance Management Systems (PMS). Dr. Jain discusses the shift from annual reviews to real-time feedback, the role of AI in removing bias, and managing the performance of gig and remote workforces.",
+                    "highlights": [
+                        "Real-time Performance Metrics",
+                        "AI in Bias Reduction",
+                        "VUCA World Coaching",
+                        "Gig Workforce Performance",
+                        "Data-Driven Goal Setting"
+                    ],
+                    "href": "https://sjartistry.in/wp-content/uploads/2026/09/Dr.-Aman-Jain-2-1.pdf",
+                    "buttonLabel": "Download PDF"
+                }
+            ],
+            "closeTitle": "Ready to Transform Your Organization?",
+            "closeSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "closeLabel": "Get in Touch",
+            "closeHref": "/connect"
+        }
+    },
+    {
+        "slug": "resources/assets",
+        "title": "Assets",
+        "eyebrow": "",
+        "summary": "Assets",
+        "body": "",
+        "status": "published",
+        "assets": {
+            "title": "Assets",
+            "description": "Press kit, bio, and resources for event organizers",
+            "image": "/images/resources/assets-hero.webp",
+            "alt": "Assets Box Icon",
+            "categories": [
+                {
+                    "title": "Presentations",
+                    "cards": [
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        }
+                    ]
+                },
+                {
+                    "title": "Handouts",
+                    "cards": [
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        }
+                    ]
+                },
+                {
+                    "title": "HR Checklist",
+                    "cards": [
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        },
+                        {
+                            "title": "HR Leadership Competency Framework",
+                            "description": "A structured framework for HR leadership competencies and development pathways",
+                            "href": "#",
+                            "buttonLabel": "Download PDF"
+                        }
+                    ]
+                },
+                {
+                    "title": "Speaker Bio & Pictures",
+                    "cards": [
+                        {
+                            "title": "Speaker Bio",
+                            "description": "Short profile for event organisers. Upload the PDF from the editor and paste its link here.",
+                            "href": "/connect",
+                            "buttonLabel": "Request the bio"
+                        },
+                        {
+                            "title": "High-resolution pictures",
+                            "description": "Press photos for print and stage screens. Upload the files from the editor and paste the link here.",
+                            "href": "/connect",
+                            "buttonLabel": "Request the pictures"
+                        }
+                    ]
+                }
+            ],
+            "closeTitle": "Ready to Transform Your Organization?",
+            "closeSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "closeLabel": "Get in Touch",
+            "closeHref": "/connect"
+        }
+    },
+    {
+        "slug": "resources/in-the-news",
+        "title": "In The News",
+        "eyebrow": "",
+        "summary": "In The News",
+        "body": "",
+        "status": "published",
+        "news": {
+            "title": "In the News",
+            "description": "Media coverage, announcements, and professional milestones",
+            "image": "/images/resources/news-hero.webp",
+            "alt": "In the News",
+            "cards": [
+                {
+                    "image": "/images/resources/news/e2E-Rail-Appoints-Dr.-Aman-Jain-as-Chief-Human-Resources-Officer.png.webp",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "People Manager",
+                    "title": "E2E Rail Appoints Dr. Aman Jain as Chief Human Resources Officer",
+                    "description": "Dr. Aman Jain joins E2E Rail as CHRO to lead people strategy and organizational development",
+                    "href": "https://peoplemanager.co.in/e2e-rail-appoints-dr-aman-jain-as-chief-human-resources-officer/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/images-14.png",
+                    "alt": "News Image",
+                    "year": "2026",
+                    "category": "News Proton",
+                    "title": "Indian Enterprise in 2026: Leadership, Innovation, and the Road Ahead",
+                    "description": "Expert insights on leadership and innovation trends shaping Indian enterprises in 2026",
+                    "href": "https://newsproton.com/indian-enterprise-in-2026-leadership-innovation-and-the-road-ahead/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/15.webp",
+                    "alt": "News Image",
+                    "year": "2026",
+                    "category": "The Weekly News",
+                    "title": "Why Leadership Capabilities Matter More, Not Title-Driven",
+                    "description": "Understanding why leadership is about capabilities and impact, not just titles",
+                    "href": "https://theweeklynews.in/why-leadership-capabilities-matter-more-not-title-driven/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/540x540bb.webp",
+                    "alt": "News Image",
+                    "year": "2021",
+                    "category": "AB InBev India",
+                    "title": "Aman Jain joins AB InBev India as Lead - Learning & Development",
+                    "description": "Aman Jain joins AB InBev India as Lead",
+                    "href": "https://hr.economictimes.indiatimes.com/news/industry/aman-jain-joins-ab-inbev-india-as-lead-learning-development/85234232",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/asanify-hr-software.png",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "Asanify",
+                    "title": "Dr. Aman Jain Featured in Asanify - HR Leadership Excellence",
+                    "description": "Highlighting HR leadership and workplace excellence in the future of work",
+                    "href": "https://www.linkedin.com/posts/hrleadership-workplaceexcellence-futureofwork-ugcPost-7286997120878809088-aVmT/?utm_source=share&utm_medium=member_ios",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/happiest_places_to_work_logo.jpg",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "Happiest Places to Work®",
+                    "title": "Happiest Places to Work® Recognition",
+                    "description": "Professional achievement and workplace excellence recognition",
+                    "href": "https://www.linkedin.com/posts/professionalachievement-workplaceexcellence-share-7285559634625466369-6-il/?utm_source=share&utm_medium=member_ios",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/upload-1585298070-logo-hrworld-square.png",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "ET HR World",
+                    "title": "E2E Rail Appoints Dr. Aman Jain as CHRO - Economic Times",
+                    "description": "Economic Times covers the appointment of Dr. Aman Jain as Chief Human Resources Officer at E2E Rail",
+                    "href": "https://hr.economictimes.indiatimes.com/news/industry/e2e-rail-appoints-dr-aman-jain-as-chief-human-resources-officer/117269592",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/Aman-Jain.png",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "HR Katha",
+                    "title": "Aman Jain is Now CHRO at E2E Rail",
+                    "description": "HR Katha announces Dr. Aman Jain's new role as CHRO at E2E Rail",
+                    "href": "https://www.hrkatha.com/people/movement/aman-jain-is-now-chro-e2e-rail/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "Rail Analysis",
+                    "title": "Dr. Aman Jain Assumes Charge as CHRO at E2E Rail",
+                    "description": "Rail Analysis covers Dr. Aman Jain assuming charge as Chief Human Resources Officer at E2E Rail",
+                    "href": "https://railanalysis.in/rail-news/dr-aman-jain-assumes-charge-as-chief-human-resources-officer-at-e2e-rail/",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/1736832050900.jpg",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "Rail Analysis Insights",
+                    "title": "E2E Rail Leadership Announcement - LinkedIn",
+                    "description": "LinkedIn announcement about E2E Rail's new leadership appointment",
+                    "href": "https://www.linkedin.com/posts/e2erail-indianrailways-appointment-share-7284862445951635457-Bh9_/?utm_source=share&utm_medium=member_desktop",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "/images/resources/news/1736835187636.jpg",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "LinkedIn",
+                    "title": "HR Leadership Insights - Anil Kaushik",
+                    "description": "HR leadership insights and human resources excellence",
+                    "href": "https://www.linkedin.com/posts/anil-kaushik-20b2a13_hr-vphr-humanresources-share-7284801772651532288-_VuS/?utm_source=share&utm_medium=member_ios",
+                    "buttonLabel": "Read Article"
+                },
+                {
+                    "image": "",
+                    "alt": "News Image",
+                    "year": "2025",
+                    "category": "E2E Rail",
+                    "title": "E2E Rail Leadership Announcement - Official",
+                    "description": "Official announcement from E2E Rail about new CHRO appointment with people-first approach",
+                    "href": "https://www.linkedin.com/posts/leadership-chro-peoplefirst-share-7284814779200815104-13Kr/?utm_source=share&utm_medium=member_ios",
+                    "buttonLabel": "Read Article"
+                }
+            ]
+        }
+    },
+    {
+        "slug": "connect",
+        "title": "Let's talk",
+        "eyebrow": "Connect",
+        "summary": "Connect page",
+        "body": "",
+        "status": "published",
+        "connect": {
+            "title": "Let's talk",
+            "description": "Let's discuss how we can transform your organization together",
+            "image": "/images/connect/hero.webp",
+            "alt": "Let's Talk",
+            "contactTitle": "Contact\nInformation",
+            "email": "hello@amanjain.in",
+            "namePlaceholder": "First Name Last Name",
+            "emailPlaceholder": "Your E-mail",
+            "agendaPlaceholder": "Select your Agenda",
+            "agendas": [
+                "Speaking",
+                "Facilitation",
+                "Coaching",
+                "eLearning",
+                "Research",
+                "Other"
+            ],
+            "subjectPlaceholder": "Subject",
+            "messagePlaceholder": "Your message/query",
+            "buttonLabel": "Send Message",
+            "closeTitle": "Ready to Transform Your Organization?",
+            "closeSubtitle": "Let's discuss how we can work together to achieve your goals",
+            "closeLabel": "Get in Touch",
+            "closeHref": "#contact"
+        }
+    },
+    {
+        "slug": "contact",
+        "title": "Contact",
+        "eyebrow": "Contact",
+        "summary": "Contact page",
+        "body": "",
+        "status": "published"
+    },
+    {
+        "slug": "blog",
+        "title": "Blog",
+        "eyebrow": "Blog",
+        "summary": "Blog page",
+        "body": "",
+        "status": "published"
+    },
+    {
+        "slug": "services",
+        "title": "Services",
+        "eyebrow": "Services",
+        "summary": "Services page",
+        "body": "",
+        "status": "published"
+    },
+    {
+        "slug": "work",
+        "title": "Work",
+        "eyebrow": "Work",
+        "summary": "Work page",
+        "body": "",
+        "status": "published"
+    }
+]

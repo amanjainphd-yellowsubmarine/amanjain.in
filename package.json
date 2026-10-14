@@ -1,0 +1,16 @@
+{
+  "name": "aman-jain",
+  "private": true,
+  "scripts": {
+    "dev:website": "npm run dev --prefix apps/website",
+    "dev:cms": "npm run dev --prefix apps/cms",
+    "build:website": "npm run build --prefix apps/website",
+    "build:cms": "npm run build --prefix apps/cms"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.13",
+    "bcryptjs": "^3.0.2",
+    "esbuild": "^0.25.10",
+    "tailwindcss": "^4.1.13"
+  }
+}
